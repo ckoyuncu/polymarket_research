@@ -1,123 +1,117 @@
-# Polymarket Trading Analysis
+# Polymarket Research
 
-Analysis and reverse engineering of profitable Polymarket trading strategies, focusing on Account88888's 97.9% win rate on 15-minute Up/Down markets.
+Live maker bot and research tools for Polymarket 15-minute crypto markets.
 
 ## Current Status
 
-**Phase: Reverse Engineering Account88888's Signal** (Jan 6, 2026)
-
-- Built 17 analysis tools to identify Account88888's signal source
-- ML model predicts their betting direction with 74% accuracy
-- ~30% unexplained edge over base rate still under investigation
-- Real-time trackers running on EC2 for data collection
-
-## Key Findings
-
-| Metric | Value |
-|--------|-------|
-| Win rate | **97.9%** (229/234 markets) |
-| Profit source | 97.2% prediction, 2.8% arbitrage |
-| Total volume analyzed | $285.9M (2.9M trades) |
-| Hedge ratio | 4.44x (buy BOTH sides, favor one) |
-| Base momentum rate | ~67-69% |
-| **Unexplained edge** | **~30%** |
-
-See [reports/STRATEGY_ANALYSIS.md](reports/STRATEGY_ANALYSIS.md) for detailed findings.
+**Live Deployment** (Jan 6, 2026)
+- Maker bot running 24/7 on Tokyo EC2 (13.231.67.98)
+- Placing delta-neutral orders on BTC/ETH 15-min Up/Down markets
+- Capturing maker rebates from new fee structure (introduced Jan 6, 2026)
 
 ## Repository Structure
 
 ```
-polymarket_starter/
-├── scripts/
-│   ├── reverse_engineer/     # Signal analysis tools (17 scripts)
-│   ├── analysis/             # Backtest & strategy analysis
-│   ├── research/             # Chainlink timing, orderbook research
-│   ├── data_pipeline/        # Data extraction & processing
-│   └── tests/                # Data validation
-│
+polymarket_research/
 ├── src/
-│   ├── arbitrage/            # Arbitrage bot (15-min markets)
-│   ├── feeds/                # Price feeds (Binance)
-│   ├── trading/              # Order execution
-│   └── api/                  # Polymarket API clients
+│   ├── maker/               # Live maker bot
+│   │   ├── live_maker_bot.py    # Main bot (deployed)
+│   │   ├── cloudflare_bypass.py # Browser headers for API
+│   │   ├── dual_order.py        # Synchronized YES/NO orders
+│   │   ├── delta_tracker.py     # Position tracking
+│   │   ├── risk_limits.py       # Kill switch, limits
+│   │   └── paper_simulator.py   # Paper trading
+│   ├── backtest/maker/      # Backtesting infrastructure
+│   ├── exchanges/           # Hyperliquid client
+│   └── api/                 # CLOB & Gamma API clients
 │
-├── data/                     # Trade data, price data (gitignored)
-├── reports/                  # Analysis reports
-├── docs/                     # Documentation
-└── archive/deprecated_bots/  # Deprecated strategies
+├── tests/                   # Comprehensive test suite
+├── systemd/                 # 24/7 service configs
+├── archive/polymarket/      # Old research code & data
+└── docs/                    # Documentation
 ```
 
-## Reverse Engineering Tools
+## Large Data Files
 
-All tools in `scripts/reverse_engineer/`:
+Large data files are **excluded from git** but available locally at:
 
-| Phase | Script | Purpose |
-|-------|--------|---------|
-| Timing | `subsecond_timing_analyzer.py` | Sub-second trade timing |
-| Timing | `final_minute_tracker.py` | Real-time final 60s capture |
-| Timing | `block_position_analyzer.py` | MEV/gas analysis |
-| External | `multi_exchange_tracker.py` | Multi-exchange prices |
-| External | `trade_vs_exchange_leader.py` | Exchange leadership |
-| Orderbook | `orderbook_imbalance_analyzer.py` | Orderbook signals |
-| Orderbook | `spread_dynamics_analyzer.py` | Spread patterns |
-| On-chain | `gas_pattern_analyzer.py` | Gas usage patterns |
-| On-chain | `competitor_tracker.py` | Other traders |
-| ML | `feature_engineering.py` | Feature extraction |
-| ML | `signal_discovery_model.py` | XGBoost direction predictor |
-| ML | `outcome_predictor.py` | Market outcome predictor |
-| Validation | `hypothesis_backtester.py` | Backtest hypotheses |
-| Validation | `live_signal_tester.py` | Paper trade strategies |
+```
+/Users/shem/Desktop/polymarket_starter/polymarket_starter/
+```
 
-See [scripts/reverse_engineer/README.md](scripts/reverse_engineer/README.md) for usage.
+| File | Size | Location |
+|------|------|----------|
+| `data/account88888_trades_joined.json` | 1.3GB | polymarket_starter |
+| `data/ec2_transfers/transfers_*.jsonl` | 5GB+ | polymarket_starter |
+| `data/token_to_market.json` | 101MB | polymarket_starter |
+| `data/binance_klines_full.csv` | 8MB | polymarket_starter |
+
+To access these files, reference them from the local path or symlink:
+```bash
+ln -s /Users/shem/Desktop/polymarket_starter/polymarket_starter/data ./data_local
+```
 
 ## EC2 Instances
 
-| Instance | Region | Purpose | Status |
-|----------|--------|---------|--------|
-| polymarket-logger-us-east | us-east-1 | Real-time trackers | Running |
+| Instance | Region | IP | Purpose | Status |
+|----------|--------|-----|---------|--------|
+| polymarket-arbitrage-bot | ap-northeast-1 | 13.231.67.98 | **Maker bot (LIVE)** | Running |
+| polymarket-logger-us-east | us-east-1 | 13.222.131.86 | Data collection | Cloudflare blocked |
 
 ```bash
-# SSH Access
-ssh -i ~/.ssh/polymarket-bot-key-us-east.pem ubuntu@13.222.131.86
+# SSH to Tokyo (maker bot)
+ssh -i ~/.ssh/polymarket-bot-key-tokyo.pem ubuntu@13.231.67.98
 
-# Check tracker health
-python3 scripts/reverse_engineer/tracker_health_monitor.py --once
+# Check bot logs
+journalctl -u maker-bot.service -f
+
+# Emergency stop
+sudo systemctl stop maker-bot.service
 ```
 
 ## Quick Start
 
 ```bash
-# Clone and setup
-git clone https://github.com/ckoyuncu/polymarket_starter.git
-cd polymarket_starter
+# Clone
+git clone https://github.com/ckoyuncu/polymarket_research.git
+cd polymarket_research
+
+# Setup
 python3 -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
+pip install py-clob-client python-dotenv
 
-# Run signal discovery model
-python scripts/reverse_engineer/signal_discovery_model.py
+# Create .env with credentials
+cat > .env << EOF
+POLYMARKET_PRIVATE_KEY=your_key_here
+POLYMARKET_FUNDER=your_address_here
+EOF
 
-# Backtest hypotheses
-python scripts/reverse_engineer/hypothesis_backtester.py
-
-# Paper trade strategies (local)
-python scripts/reverse_engineer/live_signal_tester.py --duration 60
+# Run maker bot locally
+python -m src.maker.live_maker_bot --bid-yes 0.45 --bid-no 0.45 --size 5.0
 ```
 
-## Data Files
+## Maker Bot Configuration
 
-Large data files are gitignored. Key files:
+| Parameter | Default | Description |
+|-----------|---------|-------------|
+| `--bid-yes` | 0.45 | Bid price for YES shares |
+| `--bid-no` | 0.45 | Bid price for NO shares |
+| `--size` | 5.0 | USD per side |
+| `--max-loss` | 20.0 | Daily loss limit |
 
-| File | Description |
-|------|-------------|
-| `data/account88888_trades_joined.json` | 2.9M trades (1.3GB) |
-| `data/binance_klines_full.csv` | 31 days of 1-min candles |
-| `data/token_to_market.json` | 20,200 token mappings (101MB) |
+## Safety Features
 
-## Documentation
+- Kill switch: `touch .kill_switch` to stop
+- Position limits: $10/market, 2 markets max
+- Daily loss limit: $20
+- Auto-cancel orders before resolution
 
-- [reports/STRATEGY_ANALYSIS.md](reports/STRATEGY_ANALYSIS.md) - Complete strategy analysis
-- [scripts/reverse_engineer/README.md](scripts/reverse_engineer/README.md) - Reverse engineering tools
-- [docs/ARBITRAGE_BOT_README.md](docs/ARBITRAGE_BOT_README.md) - Arbitrage bot (legacy)
+## Related Repository
+
+The original research data lives in `polymarket_starter`:
+- `/Users/shem/Desktop/polymarket_starter/polymarket_starter/`
+- Contains large data files, historical analysis, Account88888 research
+- See `archive/polymarket/` for migrated code from that repo
 
 ---
 
