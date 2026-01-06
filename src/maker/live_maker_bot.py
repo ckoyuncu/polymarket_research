@@ -38,7 +38,7 @@ import logging
 import argparse
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Any
 from dataclasses import dataclass, field, asdict
 from decimal import Decimal
 import requests
@@ -91,10 +91,16 @@ class BotConfig:
     max_position_per_market: float = 10.0  # $10 total per market
     max_concurrent_markets: int = 2     # 1 BTC + 1 ETH
 
-    # Pricing strategy
+    # Multi-phase pricing strategy (from LIVE_DEPLOYMENT_PLAN.md)
+    # Phase 1: Aggressive - try to get fills with good profit
+    # Phase 2: Mid-range - better fill probability
+    # Phase 3: Conservative - compete with existing liquidity
+    pricing_phases: List[Tuple[float, float]] = None  # List of (yes_price, no_price)
+    phase_timeout_seconds: int = 180    # Move to next phase after 3 min without fill
+
+    # Default prices (used if pricing_phases not set)
     bid_price_yes: float = 0.45         # Bid this much for YES
     bid_price_no: float = 0.45          # Bid this much for NO
-    # If both fill at 0.45: cost = $0.90, payout = $1.00, profit = $0.10 + rebates
 
     # Safety limits
     max_daily_loss: float = 20.0        # Stop if down $20
@@ -112,6 +118,15 @@ class BotConfig:
     # API
     gamma_api: str = "https://gamma-api.polymarket.com"
     clob_api: str = "https://clob.polymarket.com"
+
+    def __post_init__(self):
+        # Default pricing phases from LIVE_DEPLOYMENT_PLAN.md
+        if self.pricing_phases is None:
+            self.pricing_phases = [
+                (0.45, 0.45),  # Phase 1: Aggressive ($0.10 profit if both fill)
+                (0.30, 0.30),  # Phase 2: Mid-range ($0.40 profit if both fill)
+                (0.10, 0.10),  # Phase 3: Conservative ($0.80 profit if both fill)
+            ]
 
 
 @dataclass
@@ -131,13 +146,18 @@ class BotState:
     no_fills: int = 0
     both_fills: int = 0
 
-    # Current positions
+    # Current positions - enhanced with phase tracking
+    # Format: {slug: {order_info, phase, placed_at, end_timestamp}}
     active_orders: Dict = field(default_factory=dict)
     positions: Dict = field(default_factory=dict)
 
     # Learning data
     fill_prices: List[float] = field(default_factory=list)
     spreads_observed: List[float] = field(default_factory=list)
+
+    # Phase tracking - which price level each market is at
+    # Format: {slug: {"phase": 0, "placed_at": timestamp}}
+    market_phases: Dict = field(default_factory=dict)
 
 
 # =============================================================================
@@ -450,8 +470,157 @@ class LiveMakerBot:
 
         return token_ids[up_idx], token_ids[down_idx]
 
+    def _cleanup_expired_markets(self):
+        """Cancel and remove orders for markets that have expired."""
+        now = int(time.time())
+        expired_slugs = []
+
+        for slug, order_info in list(self.state.active_orders.items()):
+            end_ts = order_info.get("end_timestamp", 0)
+            if end_ts and now >= end_ts:
+                logger.info(f"Market {slug} has expired, cleaning up orders")
+                expired_slugs.append(slug)
+
+                # Cancel the orders
+                yes_order_id = order_info.get("yes_order", {}).get("orderID")
+                no_order_id = order_info.get("no_order", {}).get("orderID")
+
+                if yes_order_id:
+                    self.executor.cancel_order(yes_order_id)
+                if no_order_id:
+                    self.executor.cancel_order(no_order_id)
+
+        # Remove expired markets from state
+        for slug in expired_slugs:
+            del self.state.active_orders[slug]
+            if slug in self.state.market_phases:
+                del self.state.market_phases[slug]
+
+        if expired_slugs:
+            logger.info(f"Cleaned up {len(expired_slugs)} expired markets")
+
+    def _check_order_fills(self) -> Dict[str, Dict]:
+        """Check if any of our orders got filled."""
+        fills = {}
+
+        if not self.executor.client:
+            return fills
+
+        try:
+            # Get current open orders
+            open_orders = self.executor.get_open_orders()
+
+            # Robust extraction of order IDs
+            open_order_ids = set()
+            for o in open_orders:
+                if isinstance(o, dict):
+                    order_id = o.get("id") or o.get("orderID")
+                    if order_id:
+                        open_order_ids.add(order_id)
+
+            logger.debug(f"Found {len(open_order_ids)} open orders on CLOB")
+
+            for slug, order_info in list(self.state.active_orders.items()):
+                # Skip if already marked as filled
+                if order_info.get("_filled"):
+                    continue
+
+                yes_order_id = order_info.get("yes_order", {}).get("orderID")
+                no_order_id = order_info.get("no_order", {}).get("orderID")
+
+                # Only count as filled if we have valid IDs and they're not in open orders
+                yes_filled = bool(yes_order_id) and yes_order_id not in open_order_ids
+                no_filled = bool(no_order_id) and no_order_id not in open_order_ids
+
+                # Require BOTH to be missing from open orders to avoid false positives
+                if yes_filled and no_filled:
+                    fills[slug] = {
+                        "yes_filled": True,
+                        "no_filled": True,
+                        "both_filled": True
+                    }
+                    logger.info(f"BOTH orders filled for {slug}! Delta-neutral achieved!")
+                    self.state.both_fills += 1
+                    self.state.orders_filled += 2
+                    # Mark as filled to avoid double counting
+                    self.state.active_orders[slug]["_filled"] = True
+                elif yes_filled and not no_filled:
+                    # Only YES filled - wait for NO or handle partial fill
+                    logger.info(f"YES order filled for {slug} (waiting for NO)")
+                elif no_filled and not yes_filled:
+                    # Only NO filled - wait for YES or handle partial fill
+                    logger.info(f"NO order filled for {slug} (waiting for YES)")
+
+        except Exception as e:
+            logger.error(f"Error checking fills: {e}")
+            import traceback
+            logger.debug(traceback.format_exc())
+
+        return fills
+
+    def _get_current_phase(self, slug: str) -> int:
+        """Get current pricing phase for a market."""
+        if slug not in self.state.market_phases:
+            self.state.market_phases[slug] = {
+                "phase": 0,
+                "placed_at": int(time.time())
+            }
+        return self.state.market_phases[slug]["phase"]
+
+    def _should_advance_phase(self, slug: str) -> bool:
+        """Check if we should move to next pricing phase due to timeout."""
+        if slug not in self.state.market_phases:
+            return False
+
+        phase_info = self.state.market_phases[slug]
+        current_phase = phase_info["phase"]
+        placed_at = phase_info["placed_at"]
+
+        # Check if we've exhausted all phases
+        if current_phase >= len(self.config.pricing_phases) - 1:
+            return False
+
+        # Check if enough time has passed without a fill
+        elapsed = int(time.time()) - placed_at
+        return elapsed >= self.config.phase_timeout_seconds
+
+    def _advance_phase(self, slug: str) -> bool:
+        """Advance to next pricing phase, cancel old orders, place new ones."""
+        if slug not in self.state.active_orders:
+            return False
+
+        order_info = self.state.active_orders[slug]
+        current_phase = self._get_current_phase(slug)
+        next_phase = current_phase + 1
+
+        if next_phase >= len(self.config.pricing_phases):
+            logger.info(f"No more phases for {slug}, staying at phase {current_phase}")
+            return False
+
+        logger.info(f"Advancing {slug} from phase {current_phase} to phase {next_phase}")
+
+        # Cancel current orders
+        yes_order_id = order_info.get("yes_order", {}).get("orderID")
+        no_order_id = order_info.get("no_order", {}).get("orderID")
+
+        if yes_order_id:
+            self.executor.cancel_order(yes_order_id)
+        if no_order_id:
+            self.executor.cancel_order(no_order_id)
+
+        # Update phase
+        self.state.market_phases[slug] = {
+            "phase": next_phase,
+            "placed_at": int(time.time())
+        }
+
+        # Remove old order info (will be replaced by new orders)
+        del self.state.active_orders[slug]
+
+        return True
+
     def _place_maker_orders(self, market: Dict) -> Dict:
-        """Place YES and NO maker orders for a market."""
+        """Place YES and NO maker orders for a market at current phase price."""
         slug = market.get("slug", "")
         yes_token, no_token = self._parse_market_tokens(market)
 
@@ -459,19 +628,23 @@ class LiveMakerBot:
             logger.error(f"Could not parse tokens for {slug}")
             return {"success": False, "reason": "no_tokens"}
 
-        # Calculate sizes
-        yes_size = self.config.position_size_usd / self.config.bid_price_yes
-        no_size = self.config.position_size_usd / self.config.bid_price_no
+        # Get current phase pricing
+        current_phase = self._get_current_phase(slug)
+        yes_price, no_price = self.config.pricing_phases[current_phase]
 
-        logger.info(f"Placing orders for {slug}:")
-        logger.info(f"  YES: BUY {yes_size:.2f} @ ${self.config.bid_price_yes}")
-        logger.info(f"  NO:  BUY {no_size:.2f} @ ${self.config.bid_price_no}")
+        # Calculate sizes
+        yes_size = self.config.position_size_usd / yes_price
+        no_size = self.config.position_size_usd / no_price
+
+        logger.info(f"Placing orders for {slug} (Phase {current_phase + 1}/{len(self.config.pricing_phases)}):")
+        logger.info(f"  YES: BUY {yes_size:.2f} @ ${yes_price}")
+        logger.info(f"  NO:  BUY {no_size:.2f} @ ${no_price}")
 
         # Place YES order (buying UP outcome)
         yes_result = self.executor.place_limit_order(
             token_id=yes_token,
             side="BUY",
-            price=self.config.bid_price_yes,
+            price=yes_price,
             size=yes_size
         )
 
@@ -479,12 +652,18 @@ class LiveMakerBot:
         no_result = self.executor.place_limit_order(
             token_id=no_token,
             side="BUY",
-            price=self.config.bid_price_no,
+            price=no_price,
             size=no_size
         )
 
         # Track orders
         self.state.orders_placed += 2
+
+        # Update phase tracking
+        self.state.market_phases[slug] = {
+            "phase": current_phase,
+            "placed_at": int(time.time())
+        }
 
         return {
             "success": True,
@@ -493,6 +672,10 @@ class LiveMakerBot:
             "no_order": no_result,
             "yes_token": yes_token,
             "no_token": no_token,
+            "phase": current_phase,
+            "yes_price": yes_price,
+            "no_price": no_price,
+            "end_timestamp": market.get("_end_timestamp", 0),
         }
 
     def run_cycle(self):
@@ -506,10 +689,28 @@ class LiveMakerBot:
             logger.warning(f"Safety check failed: {reason}")
             return
 
-        # Find active markets
+        # Step 1: Clean up expired markets
+        self._cleanup_expired_markets()
+
+        # Step 2: Check for fills on existing orders
+        fills = self._check_order_fills()
+        if fills:
+            logger.info(f"Detected fills: {fills}")
+
+        # Step 3: Check if any markets need phase advancement
+        markets_to_advance = []
+        for slug in list(self.state.active_orders.keys()):
+            if self._should_advance_phase(slug):
+                markets_to_advance.append(slug)
+
+        for slug in markets_to_advance:
+            self._advance_phase(slug)
+
+        # Step 4: Find active markets
         markets = self.market_finder.find_active_markets()
         logger.info(f"Found {len(markets)} active markets")
 
+        # Step 5: Process each market
         for market in markets[:self.config.max_concurrent_markets]:
             slug = market.get("slug", "")
             seconds_left = market.get("_seconds_left", 0)
@@ -533,16 +734,21 @@ class LiveMakerBot:
 
             # Skip if we already have orders in this market
             if slug in self.state.active_orders:
-                logger.info(f"  Already have orders in {slug}")
+                phase = self._get_current_phase(slug)
+                logger.info(f"  Already have orders in {slug} (Phase {phase + 1})")
                 continue
 
-            # Place orders
+            # Place orders (will use current phase, which may have been advanced)
             result = self._place_maker_orders(market)
             if result.get("success"):
                 self.state.active_orders[slug] = result
-                logger.info(f"  Orders placed successfully")
+                phase = result.get("phase", 0)
+                logger.info(f"  Orders placed successfully (Phase {phase + 1})")
             else:
                 logger.warning(f"  Failed to place orders: {result.get('reason')}")
+
+        # Log summary
+        logger.info(f"Active orders: {len(self.state.active_orders)}, Fills: {self.state.orders_filled}, Both fills: {self.state.both_fills}")
 
         # Save state
         self._save_state()
