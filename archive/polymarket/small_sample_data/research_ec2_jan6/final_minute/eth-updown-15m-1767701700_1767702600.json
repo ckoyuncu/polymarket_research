@@ -1,0 +1,7002 @@
+{
+  "asset": "ETH",
+  "slug": "eth-updown-15m-1767701700",
+  "window_start": 1767701700,
+  "window_end": 1767702600,
+  "token_up": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+  "token_down": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+  "start_price": 3222.6,
+  "end_price": 3237.84,
+  "implied_up_prob": 0.5,
+  "binance_prices": [
+    {
+      "timestamp": 1767702320.568163,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702320.9705317,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702321.388102,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702321.7145162,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702322.0404468,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702322.4637923,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702322.7908,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702323.1158679,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702323.4404023,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702323.8661625,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702324.3144975,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702324.6826198,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702325.0061762,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702325.3742366,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702325.753349,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702326.0798783,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702326.4125195,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702326.737588,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702327.1195316,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702327.4533274,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702327.8558962,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702328.1822577,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702328.5262659,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702328.8516638,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702329.1925237,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702329.648635,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702329.9770288,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702330.3035533,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702330.6742196,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702331.001166,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702331.4197588,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702331.8142393,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702332.1404588,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702332.5470023,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702332.9185092,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702333.296009,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702333.6619127,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702333.989169,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702334.3729234,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702334.853567,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702335.2136497,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702335.5735872,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702335.9291239,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702336.2571485,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702336.6086955,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702336.9363308,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702337.2631116,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702337.6558247,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702338.007179,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702338.3558023,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702338.6829054,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702339.0142612,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702339.3423076,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702339.8029842,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702340.1593106,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702340.4850206,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702340.826894,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702341.1816635,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702341.5152237,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702341.8462589,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702342.175501,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702342.5025978,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702342.830351,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702343.1549268,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702343.5511298,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702343.8771315,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702344.2043345,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702344.5388668,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702344.8960161,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702345.2867372,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702345.641543,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702345.9695294,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702346.4245067,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702346.8437502,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702347.2339416,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702347.587013,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702347.9121792,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702348.2775824,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702348.6064794,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702348.933728,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702349.2748587,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702349.63269,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702349.9649277,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702350.344317,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702350.7164705,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702351.0464334,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702351.405724,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702351.7339494,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702352.0609345,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702352.532095,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702352.858085,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702353.182528,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702353.5222642,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702353.8762906,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702354.2167327,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702354.5743904,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702354.909399,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702355.3938687,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702355.7227533,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702356.0474732,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702356.3930976,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702356.754959,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702357.1196837,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702357.455684,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702357.7842562,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702358.1101463,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702358.455001,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702358.7827892,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702359.1096625,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702359.4367337,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702359.7673812,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702360.1937578,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702360.578964,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702360.9303622,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702361.4232562,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702362.13429,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702362.4651647,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702362.878263,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702363.2935061,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702363.6238205,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702363.9689023,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702364.3072896,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702364.7208068,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702365.1046515,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702365.4311132,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702365.7577007,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702366.1119142,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702366.444056,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702366.797788,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702367.1267457,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702367.452302,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702367.7769623,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702368.1221344,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702368.4489274,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702368.8026044,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702369.1600137,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702369.485975,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702369.8209598,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702370.2038178,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702370.5326087,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702370.8911111,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702371.215189,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702371.5422442,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702371.922282,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702372.24767,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702372.5773747,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702372.9968717,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702373.3261502,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702373.6872475,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702374.0517917,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702374.3878033,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702374.757495,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702375.1597266,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702375.5139587,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702375.863802,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702376.2802043,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702376.6222494,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702376.9545987,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702377.2882416,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702377.646484,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702378.0051355,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702378.3816686,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702378.723407,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702379.1383467,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702379.5234115,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702379.8583176,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702380.2511287,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702380.6167083,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702381.063564,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702381.4397573,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702381.765515,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702382.161333,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702382.538988,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702382.868168,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702383.2182343,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702383.542091,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702383.8647408,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702384.3243973,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702384.689483,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702385.014339,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702385.373665,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702385.7379777,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702386.157635,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702386.4840927,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702386.8112369,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702387.2342556,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702387.6691856,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702388.0522768,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702388.4551294,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702388.7836795,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702389.1742616,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702389.5678668,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702389.9282675,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702390.2631316,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702390.6297429,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702390.9757903,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702391.3715782,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702391.7507365,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702392.0777473,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702392.433109,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702392.8570368,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702393.2672472,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702393.6498194,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702393.9767857,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702394.329473,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702394.7225757,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702395.0794365,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702395.4202673,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702395.7630243,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702396.0917037,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702396.4647331,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702396.79321,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702397.1487525,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702397.4992664,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702397.828519,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702398.1610436,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702398.4893882,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702398.8193998,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702399.2208004,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702399.5501099,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702399.8794928,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702400.3093393,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702400.73787,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702401.0671005,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702401.4019594,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702401.7839296,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702402.1410668,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702402.4715157,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702402.7976568,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702403.1238568,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702403.5071836,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702403.8348873,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702404.1938875,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702404.5235941,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702404.851081,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702405.21456,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702405.5691826,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702405.8956726,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702406.2234185,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702406.5554771,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702406.882412,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702407.2263436,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702407.6548557,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702407.9797919,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702408.3052065,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702408.6435733,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702408.9710417,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702409.3205535,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702409.6930044,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702410.0191295,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702410.367411,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702410.7877865,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702411.2000394,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702411.5265625,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702411.8523629,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702412.3171492,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702412.6702116,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702413.0027564,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702413.4070096,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702413.7357304,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702414.098889,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702414.428476,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702414.7577794,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702415.1754968,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702415.5599291,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702415.9296205,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702416.2537174,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702416.6750345,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702417.0175633,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702417.349376,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702417.776423,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702418.1061354,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702418.4298143,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702418.7961903,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702419.1555078,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702419.7255223,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702420.135158,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702420.4988053,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702420.8389876,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702421.167172,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702421.6241977,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702422.0467844,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702422.3819828,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702422.7249618,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702423.054335,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702423.3901212,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702423.7939758,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702424.1278377,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702424.4528847,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702424.8285584,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702425.1862264,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702425.581094,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702425.9160838,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702426.2864642,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702426.619332,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702426.9442902,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702427.2730458,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702427.6570387,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702428.010674,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702428.3397167,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702428.715942,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702429.061836,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702429.3912556,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702429.7179942,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702430.044526,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702430.4830544,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702430.8631175,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702431.1919906,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702431.6042256,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702431.9255426,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702432.264698,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702432.7344017,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702433.093079,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702433.4238703,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702433.7781072,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702434.1072009,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702434.6180534,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702434.9425619,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702435.2687619,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702435.6299987,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702436.0303752,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702436.4114084,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702436.7386606,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702437.0670912,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702437.4623356,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702437.881959,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702438.2966988,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702438.6218708,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702438.9475267,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702439.4512858,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702439.8386612,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702440.1682563,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702440.4988165,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702440.8287845,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702441.2678275,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702441.6305234,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702441.9970062,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702442.3964462,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702442.7228274,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702443.0491378,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702443.3872118,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702443.7155018,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702444.0451446,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702444.3735943,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702444.7004662,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702445.0505517,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702445.4725196,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702445.8033228,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702446.1689098,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702446.505754,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702446.8470225,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702447.268473,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702447.597357,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702447.9233716,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702448.4103932,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702448.8331494,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702449.1567717,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702449.4946923,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702449.8238292,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702450.197516,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702450.5571454,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702450.8796334,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702451.2229025,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702451.574904,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702451.9523168,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702452.2998748,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702452.627006,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702452.9558961,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702453.2936895,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702453.6512382,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702453.9767845,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702454.3149672,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702454.642951,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702454.9797883,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702455.351965,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702455.7266476,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702456.0542471,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702456.3818133,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702456.7338905,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702457.2089462,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702457.6329458,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702458.00711,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702458.3342378,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702458.6592598,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702459.0714922,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702459.4746869,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702459.8106809,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702460.1472735,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702460.5078144,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702460.8401804,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702461.1672873,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702461.498737,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702461.9004185,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702462.2302337,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702462.5614815,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702462.899564,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702463.2329092,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702463.5626166,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702463.8880405,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702464.2223036,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702464.6098113,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702464.9330075,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702465.2873302,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702465.6430962,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702465.9740314,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702466.3325195,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702466.6771557,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3222.6,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702467.0020447,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702467.3745236,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702467.6991043,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702468.0264573,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702468.3656006,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702468.6949854,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702469.0259826,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702469.3537686,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702469.684269,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702470.0516722,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702470.3794975,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702470.7053492,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702471.096927,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702471.459178,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702471.7874272,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702472.1160505,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702472.4900854,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702472.8177977,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702473.169724,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702473.531114,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702473.856342,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702474.2272382,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702474.5804005,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702474.906956,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702475.2394922,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702475.5716672,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702475.9311092,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702476.2854924,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702476.6712108,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702476.9960167,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702477.3629618,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702477.6943548,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702478.0541358,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702478.3917694,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702478.717319,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702479.0470011,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702479.3868723,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702479.8044422,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702480.3365228,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702480.6684604,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702480.9932063,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702481.9163237,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702482.4066901,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702482.8487644,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702483.2374096,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702483.5663128,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702483.906392,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702484.355625,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702484.712874,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702485.0435522,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702485.4090405,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702485.7425234,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702486.1403224,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702486.4671466,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702486.7939196,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702487.1414793,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702487.570243,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702487.8990805,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702488.2807994,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702488.6546702,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702488.9839563,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702489.418585,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702489.7690663,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702490.093163,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702490.5215855,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702490.87683,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702491.202458,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702491.5549781,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702491.9113927,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702492.2444453,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702492.5739188,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702492.914646,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702493.4039605,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702493.7739878,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702494.1026106,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702494.4390013,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702494.8266947,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702495.2121608,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702495.541415,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702495.867764,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702496.2942016,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702496.6560829,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702496.9800963,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702497.3419647,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702497.6701035,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702497.9991271,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702498.3319242,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702498.661703,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702499.0213482,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702499.4322085,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702499.7571821,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702500.1517293,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702500.5503633,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702500.8795207,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702501.2032158,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702501.5297732,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702501.8633301,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702502.343601,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702502.6685278,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702502.9955218,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702503.3251467,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702503.6528215,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702504.0864286,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702504.4125357,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702504.7382667,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702505.0728788,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702505.4481475,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702505.7744799,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702506.098873,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702506.42753,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702506.7540987,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702507.078746,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702507.4189515,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702507.7439568,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702508.0726357,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702508.3975813,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702508.727955,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702509.0835516,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702509.4431837,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702509.768335,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702510.1177688,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702510.5435014,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702510.8812041,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702511.2045603,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702511.5307639,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702511.8554878,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702512.2420483,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702512.5713692,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702512.9021227,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702513.28644,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702513.610865,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702513.9595742,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702514.2977371,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702514.6275127,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702514.9999583,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702515.3313024,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702515.6601913,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702516.0768335,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702516.4837706,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702516.8616395,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702517.1876132,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702517.528555,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702517.8664515,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702518.1964195,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702518.5191286,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702518.844904,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702519.2935233,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702519.6507268,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702519.9777985,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702520.3333724,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702520.6802337,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702521.038029,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702521.38543,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702521.7433066,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702522.0689912,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702522.403,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702522.7253213,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702523.0640373,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702523.4321644,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702523.7584531,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702524.091722,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702524.4534621,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702524.861426,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702525.2304704,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702525.554255,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702525.877862,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702526.2505352,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702526.6472101,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702526.9753554,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702527.3048081,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702527.650676,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702527.981065,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702528.4116735,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702528.7648666,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702529.0922875,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702529.4551084,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702529.785607,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702530.115611,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702530.4746885,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702530.8353224,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702531.162007,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702531.5423913,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702531.8968136,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702532.2243943,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702532.5737803,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702532.9023144,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702533.2910564,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702533.6782126,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702534.0110629,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702534.366087,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702534.703131,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702535.0673325,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702535.5618753,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702535.9502208,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702536.291229,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702536.753836,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702537.0797513,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702537.4366632,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702537.7676537,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702538.0896482,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702538.4161258,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702538.99595,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702539.3194969,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702539.6983273,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702540.0657253,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702540.5045567,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702540.913968,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702541.3188007,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702541.7033453,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702542.085924,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702542.6435812,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702543.0010693,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702543.427476,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702543.7610488,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702544.0923312,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702544.44339,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702544.850295,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702545.2354116,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702545.5926256,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702545.9591825,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702546.3631759,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702546.7286522,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702547.1819828,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702547.538444,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702548.037757,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702548.4243417,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702548.816639,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702549.2134852,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702549.5834684,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702549.9888837,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702550.3315928,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702550.6872532,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702551.0637708,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702551.411621,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702551.9439063,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702552.2957697,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702552.6253722,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702553.0840046,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702553.4336102,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702553.802826,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702554.311811,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702554.6742315,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702555.132041,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702555.4598897,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702555.894162,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702556.2987528,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702556.6619587,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702557.064576,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702557.4186873,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702557.9477563,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702558.3058057,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702558.8000593,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702559.1467767,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702559.4755554,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702559.9460053,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702560.271013,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702560.6283727,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702561.0643878,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702561.396092,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702561.9033806,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702562.2647092,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702562.690449,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702563.1119764,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702563.480539,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702563.85776,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702564.1830873,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702564.591477,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702564.9824715,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702565.3906522,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702565.72063,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702566.0665119,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702566.4620492,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702566.8187485,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702567.2351742,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702567.575273,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702567.9575295,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702568.3085685,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702568.6707482,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702569.1548195,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702569.514892,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702569.915008,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702570.3171322,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702570.8293931,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702571.1570399,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702571.6193047,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702572.1360328,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702572.463522,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702572.8997157,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702573.23081,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702573.6125343,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702574.1582417,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702574.558314,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702574.9516943,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702575.3185923,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702575.7278607,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702576.1468801,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702576.655092,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702576.9806595,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702577.312451,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702577.8373084,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702578.169717,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702578.5707486,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702578.8993006,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702579.2737882,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702579.8150492,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702580.1438293,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702580.6789382,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702581.0036275,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702581.3383625,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702581.7810442,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702582.126062,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702582.594571,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702582.9792411,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702583.3066518,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702583.747159,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702584.0755894,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702584.4400516,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702584.7741444,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702585.143719,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702585.5399437,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702585.904107,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702586.2882318,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702586.6150556,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702587.197817,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702587.5678074,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702587.8966298,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702588.2800605,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702588.629116,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702589.0754015,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702589.4034042,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702589.7420824,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702590.1595643,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702590.5381465,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702590.9188638,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702591.3486803,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702591.7050934,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702592.088227,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702592.4345515,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702592.7712293,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702593.1275082,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702593.5209324,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702593.8764942,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702594.2363625,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702594.709806,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702595.0987146,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702595.4413395,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702595.8610969,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702596.2386253,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702596.6107435,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702596.9741716,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702597.3034232,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702597.696475,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702598.0634806,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702598.4243178,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702598.8912518,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702599.2334867,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702599.5637379,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702599.8955348,
+      "source": "binance",
+      "asset": "ETH",
+      "price": 3237.84,
+      "extra": {}
+    }
+  ],
+  "orderbook_snapshots": [
+    {
+      "timestamp": 1767702535.5981982,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3693.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702535.5981982,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3693.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702536.5047722,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3693.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702536.5047722,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3693.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702537.5312662,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3693.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702537.5312662,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3693.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702538.4834619,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3693.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702538.4834619,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3693.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702539.5458784,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3693.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702539.5458784,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3693.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702540.4486842,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3693.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702540.4486842,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3693.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702541.4279819,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3693.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702541.4279819,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3693.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702542.335878,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702542.335878,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702543.3368838,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702543.3368838,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702544.2308793,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702544.2308793,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702545.135871,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702545.135871,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702546.129873,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702546.129873,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702547.0124135,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702547.0124135,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702547.9518776,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702547.9518776,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702548.935536,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702548.935536,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702549.8218791,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702549.8218791,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702550.8438964,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702550.8438964,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702551.7248778,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702551.7248778,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702552.7799015,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702552.7799015,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3742.36,
+      "ask_depth": 4485.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702553.7359452,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4485.19,
+      "ask_depth": 3742.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702553.7359452,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3752.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702554.8699846,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3752.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702554.8699846,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3652.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702555.8308868,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3752.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702555.8308868,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3752.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702556.7429836,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3752.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702556.7429836,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3752.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702557.6596205,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3752.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702557.6596205,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3752.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702558.6508803,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3764.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702558.6508803,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3764.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702559.6128733,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702559.6128733,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702560.5294924,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702560.5294924,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702561.442622,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702561.442622,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702562.409567,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702562.409567,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702563.3748786,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702563.3748786,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702564.2229657,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702564.2229657,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702565.1258695,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702565.1258695,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.0328746,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.0328746,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.9247954,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.9247954,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702567.7920642,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702567.7920642,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702568.6872442,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702568.6872442,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702569.6408148,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4495.19,
+      "ask_depth": 3664.36,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702569.6408148,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3664.36,
+      "ask_depth": 4495.19,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702570.5668836,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4103.8,
+      "ask_depth": 3272.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702570.5668836,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3272.97,
+      "ask_depth": 4103.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702571.5239446,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4091.8,
+      "ask_depth": 3272.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702571.5239446,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3272.97,
+      "ask_depth": 4091.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702572.4635546,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3272.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702572.4635546,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3272.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702573.4057086,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3272.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702573.4057086,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3272.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702574.371918,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3282.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702574.371918,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3272.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702575.3048954,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3393.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702575.3048954,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3393.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702576.2582464,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3393.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702576.2582464,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3393.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702577.2938728,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3403.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702577.2938728,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3393.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702578.2827802,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3393.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702578.2827802,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3393.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702579.3058758,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3544.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702579.3058758,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3514.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702580.3878841,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3514.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702580.3878841,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3514.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702581.4312212,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3514.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702581.4312212,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3514.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702582.4288836,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3541.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702582.4288836,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3541.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702583.4658885,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3541.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702583.4658885,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3551.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702584.3950708,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4591.8,
+      "ask_depth": 3472.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702584.3950708,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3481.97,
+      "ask_depth": 4591.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702585.2249126,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4521.8,
+      "ask_depth": 3454.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702585.2249126,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3449.97,
+      "ask_depth": 4521.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702586.0995233,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4400.8,
+      "ask_depth": 3207.97,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702586.0995233,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3207.97,
+      "ask_depth": 4400.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702586.970885,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4465.8,
+      "ask_depth": 1513.76,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702586.970885,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 1513.76,
+      "ask_depth": 4465.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702587.9588206,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4465.8,
+      "ask_depth": 1460.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702587.9588206,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 1454.12,
+      "ask_depth": 4465.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702588.905873,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4465.8,
+      "ask_depth": 1412.68,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702588.905873,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 1341.36,
+      "ask_depth": 4465.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702589.917473,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 4460.8,
+      "ask_depth": 1210.55,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702589.917473,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 1109.22,
+      "ask_depth": 4460.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702590.9058752,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3460.8,
+      "ask_depth": 997.23,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702590.9058752,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 986.13,
+      "ask_depth": 3460.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702591.8843691,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3460.8,
+      "ask_depth": 1029.09,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702591.8843691,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 1033.84,
+      "ask_depth": 3460.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702592.823529,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3460.8,
+      "ask_depth": 647.58,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702592.823529,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 671.31,
+      "ask_depth": 3460.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702593.6919098,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 3460.8,
+      "ask_depth": 257.74,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702593.6919098,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 252.59,
+      "ask_depth": 3460.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702594.560589,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 3460.8,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702594.560589,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 3460.8,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702595.5047953,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 3460.8,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702595.5047953,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 3460.8,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702596.4584477,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 3460.8,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702596.4584477,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 3460.8,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702597.3549135,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 3460.8,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702597.3549135,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 3460.8,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702598.2817452,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 3460.8,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702598.2817452,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 3460.8,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702599.1542385,
+      "asset": "ETH",
+      "token_id": "27295580033583261637708082604645302856078373131001158520764520222314512448471",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 3460.8,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702599.1542385,
+      "asset": "ETH",
+      "token_id": "109297614129358921243065260430090611193692066822287118621719540331510429362163",
+      "outcome": "down",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 3460.8,
+      "spread": null,
+      "mid_price": null
+    }
+  ]
+}

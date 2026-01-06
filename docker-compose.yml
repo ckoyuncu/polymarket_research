@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  arbitrage-bot:
+    build: .
+    container_name: polymarket-arbitrage-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    # Uncomment for paper trading
+    # command: python scripts/run_arbitrage_bot.py

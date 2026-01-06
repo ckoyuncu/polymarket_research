@@ -1,0 +1,29 @@
+[Unit]
+Description=Multi-Exchange Price Logger
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+
+WorkingDirectory=/home/ubuntu/polymarket_starter
+ExecStart=/home/ubuntu/polymarket_starter/venv/bin/python scripts/multi_exchange_logger.py --region REGION_PLACEHOLDER --log-dir /data/logs
+
+# Auto-restart on failure
+Restart=always
+RestartSec=10
+
+# Environment
+Environment=PYTHONUNBUFFERED=1
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=multi_exchange_logger
+
+# Resource limits
+MemoryMax=512M
+
+[Install]
+WantedBy=multi-user.target

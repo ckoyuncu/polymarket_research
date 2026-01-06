@@ -1,0 +1,427 @@
+{
+  "metadata": {
+    "start_time": 1767661280.9062672,
+    "runtime_seconds": 13.022711515426636,
+    "total_ticks": 56,
+    "ticks_per_exchange": {
+      "binance": 0,
+      "coinbase": 28,
+      "kraken": 28
+    }
+  },
+  "final_prices": {
+    "binance": {},
+    "coinbase": {
+      "BTC": 93897.505,
+      "ETH": 3220.265
+    },
+    "kraken": {
+      "BTC": 93907.6,
+      "ETH": 3220.99
+    }
+  },
+  "lead_lag_events": [
+    {
+      "timestamp": 1767661285.9138944,
+      "symbol": "ETH",
+      "direction": "up",
+      "leader": "coinbase",
+      "lag_ms": 261.4603042602539,
+      "price_move_pct": 0.05810349568651116
+    }
+  ],
+  "sample_ticks": [
+    {
+      "timestamp": 1767661280.9947903,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93851.165,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661281.176745,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93883.1,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661281.2596118,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3218.395,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661281.3461027,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661281.943346,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93851.165,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661282.0512266,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93883.1,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661282.134489,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3218.395,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661282.222126,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661282.8648305,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661282.9602263,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93883.1,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661283.0554674,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3218.395,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661283.3073032,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661283.8941197,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661283.9930112,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93883.1,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661284.109975,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3218.395,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661284.207734,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661284.790967,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93851.165,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661284.9035976,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93883.1,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661285.0115287,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3218.395,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661285.1364894,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661285.7251918,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93851.165,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661285.8303978,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93883.1,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661285.9138944,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.265,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661286.1753547,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661286.7599027,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661286.8446457,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93883.1,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661286.9583457,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.265,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661287.0518086,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661287.6579053,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661287.8397408,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93888.5,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661287.949986,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.265,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661288.028757,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661288.645356,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661288.7376468,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93888.5,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661288.8440218,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.265,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661288.9324532,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.65,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661289.5197906,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661289.639897,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93888.5,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661289.7280269,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.265,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661289.8413305,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.99,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661290.4687362,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661290.5850167,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93907.6,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661290.6671798,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.265,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661290.7651732,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.99,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661291.3736544,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93872.06,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661291.487978,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93907.6,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661291.574256,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.925,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661291.7985594,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.99,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661292.3920074,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93897.505,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661292.491366,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93907.6,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661292.5775952,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.925,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661292.6621501,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.99,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661293.2551422,
+      "exchange": "coinbase",
+      "symbol": "BTC",
+      "price": 93897.505,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661293.4649413,
+      "exchange": "kraken",
+      "symbol": "BTC",
+      "price": 93907.6,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661293.553861,
+      "exchange": "coinbase",
+      "symbol": "ETH",
+      "price": 3220.265,
+      "exchange_timestamp": null
+    },
+    {
+      "timestamp": 1767661293.6462045,
+      "exchange": "kraken",
+      "symbol": "ETH",
+      "price": 3220.99,
+      "exchange_timestamp": null
+    }
+  ]
+}

@@ -1,0 +1,7033 @@
+{
+  "asset": "BTC",
+  "slug": "btc-updown-15m-1767701700",
+  "window_start": 1767701700,
+  "window_end": 1767702600,
+  "token_up": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+  "token_down": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+  "start_price": 93750.84,
+  "end_price": 93750.84,
+  "implied_up_prob": 0.5,
+  "binance_prices": [
+    {
+      "timestamp": 1767702320.4456635,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702320.8859677,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702321.271108,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702321.6512933,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702321.9764237,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702322.342183,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702322.726592,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702323.0547228,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702323.379427,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702323.7336044,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702324.1397471,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702324.582515,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702324.9449446,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702325.3104205,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702325.6823225,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702326.017072,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702326.3451185,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702326.6765003,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702327.023926,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702327.390979,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702327.7912185,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702328.1188629,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702328.4468303,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702328.789822,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702329.1285698,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702329.5674694,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702329.9126081,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702330.241754,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702330.5754416,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702330.938661,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702331.2880788,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702331.6870017,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702332.0765977,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702332.4606693,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702332.8517988,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702333.2047706,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702333.5629873,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702333.9256306,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702334.2838151,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702334.758723,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702335.120579,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702335.4790583,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702335.8649435,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702336.1924648,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702336.5232365,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702336.8728366,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702337.1982899,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702337.5511878,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702337.9228964,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702338.271775,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702338.618916,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702338.948828,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702339.278792,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702339.6381028,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702340.0755165,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702340.4214966,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702340.761042,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702341.092204,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702341.4499977,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702341.784339,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702342.1099446,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702342.4397433,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702342.7653823,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702343.0934372,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702343.4629312,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702343.8148346,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702344.1418974,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702344.4759593,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702344.8321605,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702345.189832,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702345.5508988,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702345.9060607,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702346.3182862,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702346.7077723,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702347.125542,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702347.496872,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702347.851336,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702348.211096,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702348.5435774,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702348.8710914,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702349.2126448,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702349.5427248,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702349.9011943,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702350.269623,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702350.6494617,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702350.9784584,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702351.313913,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702351.6687753,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702351.9993029,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702352.3938942,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702352.7954094,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702353.1206558,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702353.4564025,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702353.811924,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702354.1434534,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702354.4811218,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702354.847776,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702355.2274578,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702355.6576924,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702355.9843664,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702356.3285563,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702356.6897497,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702357.0202863,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702357.3858337,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702357.7207084,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702358.0462825,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702358.3720982,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702358.7164223,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702359.0478823,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702359.3746943,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702359.6999853,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702360.0687356,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702360.4946005,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702360.8657112,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702361.2633362,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702361.8517356,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702362.4005888,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702362.7710545,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702363.1751387,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702363.5580175,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702363.9043822,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702364.2428927,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702364.589121,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702364.9873443,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702365.3679163,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702365.6943352,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702366.0293124,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702366.3762777,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702366.7143178,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702367.0607574,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702367.3896742,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702367.7147007,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702368.0386171,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702368.3876946,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702368.7135944,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702369.0690274,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702369.422311,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702369.7504003,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702370.1051254,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702370.4658732,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702370.8256197,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702371.154174,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702371.479073,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702371.8094463,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702372.1866548,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702372.510404,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702372.885107,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702373.2603192,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702373.619274,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702373.9574597,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702374.3226902,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702374.6565366,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702375.0853307,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702375.4307225,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702375.8008838,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702376.1881354,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702376.5584712,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702376.8922634,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702377.2185674,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702377.5833704,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702377.9116268,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702378.319983,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702378.661597,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702379.0502863,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702379.4297621,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702379.7847211,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702380.1521802,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702380.5354826,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702380.9498816,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702381.3394773,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702381.7024157,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702382.0596797,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702382.4707303,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702382.8021665,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702383.1339195,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702383.479657,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702383.8048372,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702384.2399662,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702384.6007972,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702384.95159,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702385.275676,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702385.6727211,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702386.0213263,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702386.4197202,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702386.7477493,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702387.1593368,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702387.5911849,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702387.964718,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702388.3307123,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702388.7220137,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702389.0750384,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702389.4951737,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702389.8385332,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702390.1918058,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702390.5420887,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702390.9113374,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702391.2658145,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702391.6503966,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702392.013056,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702392.3641527,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702392.7337923,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702393.129347,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702393.55123,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702393.9127445,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702394.244151,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702394.6038048,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702394.98737,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702395.345002,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702395.700405,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702396.0270507,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702396.3569343,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702396.7298098,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702397.0701575,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702397.435169,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702397.7649689,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702398.0992355,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702398.4232423,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702398.7551506,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702399.1130779,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702399.4869537,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702399.8167253,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702400.2005107,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702400.6205974,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702400.9999456,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702401.3309703,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702401.7175186,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702402.0768847,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702402.404556,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702402.7346673,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702403.0603244,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702403.4267879,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702403.7710125,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702404.1025066,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702404.4595804,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702404.788074,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702405.1167812,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702405.4794369,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702405.8313663,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702406.160806,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702406.487861,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702406.8186173,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702407.150076,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702407.5484304,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702407.9179413,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702408.242315,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702408.571563,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702408.9083478,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702409.2577922,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702409.6171715,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702409.9548917,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702410.2917702,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702410.6644607,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702411.0721567,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702411.462207,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702411.7886107,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702412.1960711,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702412.5952508,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702412.9346766,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702413.3191001,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702413.6714969,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702414.0034773,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702414.3606505,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702414.693068,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702415.0704212,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702415.451337,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702415.8453658,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702416.1919558,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702416.5512068,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702416.9428036,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702417.2870045,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702417.6999936,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702418.042545,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702418.3687344,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702418.7291307,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702419.0934591,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702419.5757825,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702420.03693,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702420.409329,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702420.7630138,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702421.104346,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702421.5244715,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702421.9305825,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702422.3155005,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702422.6464782,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702422.9903946,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702423.3241205,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702423.6732364,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702424.0594811,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702424.3910723,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702424.7302163,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702425.1233218,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702425.4860024,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702425.8531692,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702426.2066789,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702426.5496507,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702426.8825583,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702427.2080324,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702427.5763965,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702427.9187,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702428.2735739,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702428.6240802,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702428.9960437,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702429.3275247,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702429.6566403,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702429.981518,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702430.3992677,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702430.801177,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702431.128074,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702431.4848096,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702431.8654032,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702432.2025673,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702432.6367118,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702432.9995072,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702433.356888,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702433.6976092,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702434.044998,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702434.4649675,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702434.879321,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702435.2065754,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702435.5674407,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702435.9309473,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702436.311791,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702436.6764522,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702437.0021157,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702437.3645346,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702437.782203,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702438.165527,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702438.5591242,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702438.8843145,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702439.3246593,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702439.7231376,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702440.1023488,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702440.4358985,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702440.7639415,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702441.1437495,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702441.5324614,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702441.8934405,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702442.3173783,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702442.658993,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702442.9876332,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702443.3237333,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702443.6519015,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702443.978547,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702444.3105173,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702444.6387403,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702444.9885688,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702445.3487463,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702445.7387927,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702446.0811756,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702446.4358788,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702446.7825568,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702447.1393764,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702447.5348985,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702447.8606834,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702448.2832596,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702448.6907747,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702449.0953403,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702449.419504,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702449.7596798,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702450.108521,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702450.4650679,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702450.81935,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702451.159627,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702451.4998314,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702451.8467622,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702452.2155943,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702452.5645134,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702452.891452,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702453.2202697,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702453.5582569,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702453.9139566,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702454.2504308,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702454.5770764,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702454.9053156,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702455.2844324,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702455.6339624,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702455.9886513,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702456.316551,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702456.645087,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702457.0290408,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702457.51806,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702457.9439461,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702458.2720337,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702458.5991292,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702458.9295588,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702459.3368099,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702459.7472684,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702460.0851533,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702460.4187746,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702460.7782528,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702461.1048663,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702461.4348254,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702461.809677,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702462.1641443,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702462.4932675,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702462.835578,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702463.1657596,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702463.4983988,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702463.8262813,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702464.1600251,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702464.5419853,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702464.871264,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702465.2021656,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702465.5784392,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702465.9108741,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702466.2490485,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702466.611827,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702466.9403715,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702467.28538,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702467.6361525,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702467.9634936,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702468.301832,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702468.6318617,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702468.958181,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702469.2925265,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702469.6220868,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702469.9590244,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702470.315544,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702470.6419103,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702471.0067492,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702471.3696337,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702471.7252047,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702472.0506463,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702472.4202316,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702472.754293,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702473.1065278,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702473.462426,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702473.794226,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702474.1185012,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702474.490458,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702474.8440852,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702475.171308,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702475.5027783,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702475.834747,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702476.223342,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702476.5842648,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702476.9353075,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702477.265326,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702477.6270256,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702477.9595842,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702478.3197536,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702478.654474,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702478.9824429,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702479.3225944,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702479.7155442,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702480.1213288,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702480.6035268,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702480.9323528,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702481.5840442,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702482.3159528,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702482.737152,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702483.143332,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702483.503261,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702483.8351915,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702484.2649992,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702484.6267023,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702484.9773333,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702485.3301814,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702485.674927,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702486.0442297,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702486.4050915,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702486.7305486,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702487.0577588,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702487.4512305,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702487.8362741,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702488.166649,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702488.5914721,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702488.91967,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702489.2699192,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702489.7064748,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702490.031435,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702490.4038222,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702490.783236,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702491.1392474,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702491.4837623,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702491.8473,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702492.1800807,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702492.5085192,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702492.8498623,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702493.274033,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702493.6830614,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702494.0371687,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702494.3674705,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702494.730156,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702495.0989916,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702495.475663,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702495.8064644,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702496.1595657,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702496.5606132,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702496.917465,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702497.2585387,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702497.6072197,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702497.933932,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702498.2644584,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702498.5970707,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702498.9501457,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702499.303935,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702499.693822,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702500.061825,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702500.479018,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702500.8145726,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702501.1400962,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702501.4681203,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702501.792068,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702502.22587,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702502.6065629,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702502.930745,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702503.2611098,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702503.5918741,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702503.9325747,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702504.349913,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702504.6751819,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702505.007021,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702505.3765342,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702505.709878,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702506.03755,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702506.3624215,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702506.6905997,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702507.0170949,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702507.3461306,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702507.6826005,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702508.0072849,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702508.335384,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702508.6619585,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702509.0042727,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702509.3483102,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702509.7064936,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702510.0344894,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702510.4501772,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702510.8088138,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702511.1430779,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702511.4697735,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702511.7941992,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702512.138642,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702512.506229,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702512.835582,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702513.2058182,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702513.548924,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702513.8723733,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702514.2248287,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702514.5648258,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702514.8918283,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702515.2645595,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702515.5965898,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702515.9780588,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702516.4167128,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702516.7676258,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702517.1253777,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702517.4637713,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702517.7927475,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702518.1295035,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702518.4586146,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702518.7811909,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702519.1679683,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702519.5593598,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702519.9156864,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702520.2555022,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702520.618541,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702520.9438171,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702521.3009858,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702521.6803515,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702522.0072737,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702522.3347206,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702522.6639273,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702522.999236,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702523.3562508,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702523.6967714,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702524.0253298,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702524.3873951,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702524.7463267,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702525.134991,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702525.4928367,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702525.8165796,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702526.169819,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702526.537888,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702526.9127991,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702527.2392182,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702527.575286,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702527.912298,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702528.275049,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702528.7016954,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702529.029024,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702529.3614593,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702529.7240794,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702530.0517395,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702530.3815153,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702530.7655663,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702531.097706,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702531.4589427,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702531.833058,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702532.161576,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702532.4885309,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702532.838138,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702533.199547,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702533.608912,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702533.9399796,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702534.277099,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702534.6380916,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702534.9959815,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702535.370084,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702535.853369,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702536.211311,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702536.5960252,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702537.0176785,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702537.3568344,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702537.7009761,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702538.0295973,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702538.3540313,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702538.7987528,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702539.258291,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702539.6202586,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702539.963828,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702540.400176,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702540.8225284,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702541.2290578,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702541.6115403,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702541.9990208,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702542.495887,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702542.9398296,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702543.2849276,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702543.689742,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702544.0296705,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702544.363486,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702544.7465394,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702545.115621,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702545.525288,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702545.894008,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702546.2503445,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702546.6324792,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702547.0179484,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702547.4465365,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702547.860048,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702548.3595843,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702548.7528822,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702549.0855803,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702549.4822145,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702549.873468,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702550.2677045,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702550.624208,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702550.953827,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702551.3258748,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702551.775812,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702552.2311919,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702552.5624266,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702552.8959148,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702553.3574283,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702553.6987064,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702554.2056255,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702554.5818768,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702554.9679744,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702555.3951895,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702555.7639158,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702556.2084842,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702556.5671415,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702556.9478014,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702557.3289108,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702557.8572268,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702558.2281845,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702558.5942786,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702559.084479,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702559.4138348,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702559.8218076,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702560.2090645,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702560.5361702,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702560.978195,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702561.3333557,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702561.7382169,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702562.174295,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702562.5702596,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702563.0367713,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702563.4005153,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702563.76099,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702564.1199553,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702564.4773686,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702564.8840864,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702565.280658,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702565.6566262,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702565.9835532,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702566.3674974,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702566.7289586,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702567.149908,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702567.5001929,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702567.8712451,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702568.243861,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702568.589682,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702568.9899373,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702569.418779,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702569.7982259,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702570.2228622,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702570.6756854,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702571.0949063,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702571.4569159,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702571.9926848,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702572.4009366,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702572.8082314,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702573.169297,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702573.523191,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702573.9700813,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702574.4486809,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702574.871243,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702575.2423928,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702575.658943,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702576.0539074,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702576.4414208,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702576.9175558,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702577.2433503,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702577.7010837,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702578.1037917,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702578.444193,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702578.8350801,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702579.1972294,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702579.7253475,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702580.0803003,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702580.5056098,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702580.9426107,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702581.2656817,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702581.632076,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702582.063407,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702582.3957336,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702582.9041278,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702583.2420554,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702583.667503,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702584.00988,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702584.3660614,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702584.7090855,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702585.0621433,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702585.426706,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702585.8043592,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702586.1992078,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702586.5538952,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702587.0205746,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702587.4743078,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702587.8327167,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702588.1807323,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702588.5658875,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702588.9639966,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702589.3403072,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702589.665725,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702590.0709865,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702590.4338803,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702590.815209,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702591.2515504,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702591.643067,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702591.993173,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702592.363505,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702592.7075162,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702593.053313,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702593.4236066,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702593.8076236,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702594.142817,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702594.6100078,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702595.0071058,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702595.3756034,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702595.7230897,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702596.1281877,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702596.5364823,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702596.8818028,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702597.237825,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702597.5787735,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702597.9845843,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702598.3546844,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702598.8035934,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702599.1562417,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702599.497492,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702599.8330529,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    },
+    {
+      "timestamp": 1767702600.3500516,
+      "source": "binance",
+      "asset": "BTC",
+      "price": 93750.84,
+      "extra": {}
+    }
+  ],
+  "orderbook_snapshots": [
+    {
+      "timestamp": 1767702535.5969791,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22842.780000000002,
+      "ask_depth": 21387.84,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702535.5969791,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21387.84,
+      "ask_depth": 22866.780000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702536.5398858,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22876.780000000002,
+      "ask_depth": 21387.84,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702536.5398858,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21387.84,
+      "ask_depth": 22895.780000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702537.5551994,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22895.780000000002,
+      "ask_depth": 21387.84,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702537.5551994,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21387.84,
+      "ask_depth": 22938.780000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702538.4811041,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22957.780000000002,
+      "ask_depth": 21387.84,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702538.4811041,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21387.84,
+      "ask_depth": 25472.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702539.491797,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 25534.460000000003,
+      "ask_depth": 21195.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702539.491797,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21195.530000000002,
+      "ask_depth": 25534.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702540.3949058,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 25523.460000000003,
+      "ask_depth": 21195.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702540.3949058,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21195.530000000002,
+      "ask_depth": 25504.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702541.320889,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 25323.460000000003,
+      "ask_depth": 20995.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702541.320889,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20995.530000000002,
+      "ask_depth": 25323.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702542.219869,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 25323.460000000003,
+      "ask_depth": 20995.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702542.219869,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20995.530000000002,
+      "ask_depth": 25323.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702543.2707796,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 24923.460000000003,
+      "ask_depth": 20995.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702543.2707796,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20995.530000000002,
+      "ask_depth": 24923.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702544.2108855,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 24153.460000000003,
+      "ask_depth": 21000.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702544.2108855,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21000.530000000002,
+      "ask_depth": 24153.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702545.182872,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 23934.460000000003,
+      "ask_depth": 21000.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702545.182872,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21000.530000000002,
+      "ask_depth": 23953.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702546.085368,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 23953.460000000003,
+      "ask_depth": 21009.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702546.085368,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21009.530000000002,
+      "ask_depth": 23953.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702546.9519982,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 23953.460000000003,
+      "ask_depth": 21009.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702546.9519982,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21009.530000000002,
+      "ask_depth": 23953.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702547.8558881,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 23934.460000000003,
+      "ask_depth": 21009.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702547.8558881,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21009.530000000002,
+      "ask_depth": 23934.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702548.8915176,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22788.460000000003,
+      "ask_depth": 21009.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702548.8915176,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21009.530000000002,
+      "ask_depth": 22788.460000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702549.8078825,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22117.0,
+      "ask_depth": 21009.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702549.8078825,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21009.530000000002,
+      "ask_depth": 22124.8,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702550.7882206,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22482.1,
+      "ask_depth": 21009.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702550.7882206,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21009.530000000002,
+      "ask_depth": 22482.1,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702551.6678805,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 22006.359999999997,
+      "ask_depth": 21019.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702551.6678805,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21019.530000000002,
+      "ask_depth": 21844.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702552.7218628,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21157.28,
+      "ask_depth": 21019.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702552.7218628,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21019.530000000002,
+      "ask_depth": 21189.28,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702553.7378705,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21117.420000000002,
+      "ask_depth": 21019.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702553.7378705,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21019.530000000002,
+      "ask_depth": 21146.21,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702554.8147094,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21203.5,
+      "ask_depth": 21019.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702554.8147094,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21019.530000000002,
+      "ask_depth": 20885.2,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702555.7586176,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20649.81,
+      "ask_depth": 21019.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702555.7586176,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21019.530000000002,
+      "ask_depth": 20561.77,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702556.6604657,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20766.569999999996,
+      "ask_depth": 21019.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702556.6604657,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21019.530000000002,
+      "ask_depth": 20705.219999999998,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702557.6058936,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20314.52,
+      "ask_depth": 21036.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702557.6058936,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21036.530000000002,
+      "ask_depth": 20283.52,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702558.5891168,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19961.34,
+      "ask_depth": 21136.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702558.5891168,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21136.530000000002,
+      "ask_depth": 19923.13,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702559.657875,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19354.800000000003,
+      "ask_depth": 21136.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702559.657875,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 21136.530000000002,
+      "ask_depth": 19054.800000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702560.6248732,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19192.670000000002,
+      "ask_depth": 21136.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702560.6248732,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20836.530000000002,
+      "ask_depth": 19064.620000000003,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702561.5563333,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 17937.65,
+      "ask_depth": 20536.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702561.5563333,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20536.530000000002,
+      "ask_depth": 18044.57,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702562.5238879,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 18129.38,
+      "ask_depth": 20436.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702562.5238879,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20436.530000000002,
+      "ask_depth": 18115.93,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702563.4909947,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 18006.42,
+      "ask_depth": 20436.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702563.4909947,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20436.530000000002,
+      "ask_depth": 18006.42,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702564.3451235,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 17660.07,
+      "ask_depth": 20436.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702564.3451235,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20436.530000000002,
+      "ask_depth": 17658.02,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702565.2578814,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 17323.44,
+      "ask_depth": 20436.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702565.2578814,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20436.530000000002,
+      "ask_depth": 17523.44,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.1268187,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 17098.29,
+      "ask_depth": 20436.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.1268187,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20436.530000000002,
+      "ask_depth": 17132.88,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.9942224,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 17142.26,
+      "ask_depth": 20446.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702566.9942224,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20446.530000000002,
+      "ask_depth": 16864.46,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702567.9068727,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 17002.82,
+      "ask_depth": 20436.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702567.9068727,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20436.530000000002,
+      "ask_depth": 16488.02,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702568.7677162,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 16117.28,
+      "ask_depth": 20516.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702568.7677162,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20516.530000000002,
+      "ask_depth": 16102.37,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702569.7354915,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 16109.24,
+      "ask_depth": 20356.530000000002,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702569.7354915,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20207.440000000002,
+      "ask_depth": 15984.49,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702570.6668787,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 15980.32,
+      "ask_depth": 19665.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702570.6668787,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19665.14,
+      "ask_depth": 15991.07,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702571.6128776,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 15551.18,
+      "ask_depth": 20170.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702571.6128776,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20170.14,
+      "ask_depth": 15528.73,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702572.6218839,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 15383.43,
+      "ask_depth": 20170.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702572.6218839,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 20170.14,
+      "ask_depth": 15586.98,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702573.6058836,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 2803.65,
+      "ask_depth": 20170.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702573.6058836,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19170.14,
+      "ask_depth": 2583.45,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702574.5876665,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 2515.73,
+      "ask_depth": 19170.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702574.5876665,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19170.14,
+      "ask_depth": 2513.69,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702575.4764686,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 2036.37,
+      "ask_depth": 19170.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702575.4764686,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19170.14,
+      "ask_depth": 2041.37,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702576.3958805,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 1591.44,
+      "ask_depth": 19170.14,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702576.3958805,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": 0.99,
+      "bid_depth": 19170.14,
+      "ask_depth": 1335.88,
+      "spread": 0.98,
+      "mid_price": 0.5
+    },
+    {
+      "timestamp": 1767702577.4215515,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702577.4215515,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702578.402071,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702578.402071,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702579.2969494,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702579.2969494,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702580.363883,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702580.363883,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702581.4336596,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702581.4336596,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702582.3970745,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702582.3970745,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702583.3798912,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702583.3798912,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702584.2904184,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19170.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702584.2904184,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19170.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702585.1445885,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19050.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702585.1445885,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19050.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702585.979888,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19045.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702585.979888,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19045.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702586.8798807,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19030.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702586.8798807,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19030.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702587.8930354,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19030.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702587.8930354,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19025.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702588.768018,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702588.768018,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702589.6959064,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 19005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702589.6959064,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 19005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702590.6087162,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702590.6087162,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702591.4922082,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702591.4922082,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702592.4368963,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702592.4368963,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702593.265921,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702593.265921,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702594.1543396,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702594.1543396,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702595.102917,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702595.102917,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702595.939884,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702595.939884,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702596.8608747,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702596.8608747,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702597.7068267,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702597.7068267,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702598.627481,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702598.627481,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702599.5644429,
+      "asset": "BTC",
+      "token_id": "93726727647510357355971239823727997335316035606609139108996303272250378787618",
+      "outcome": "up",
+      "best_bid": null,
+      "best_ask": 0.99,
+      "bid_depth": 0,
+      "ask_depth": 13005.14,
+      "spread": null,
+      "mid_price": null
+    },
+    {
+      "timestamp": 1767702599.5644429,
+      "asset": "BTC",
+      "token_id": "46977956412587113142445146026384467566991386794516203324173136444736871382711",
+      "outcome": "down",
+      "best_bid": 0.01,
+      "best_ask": null,
+      "bid_depth": 13005.14,
+      "ask_depth": 0,
+      "spread": null,
+      "mid_price": null
+    }
+  ]
+}

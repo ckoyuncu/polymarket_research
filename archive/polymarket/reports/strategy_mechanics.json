@@ -1,0 +1,371 @@
+{
+  "analysis_timestamp": "2026-01-05T21:49:53.623579",
+  "data_summary": {
+    "total_trades": 2904133,
+    "total_tokens": 20198
+  },
+  "timing": {
+    "total_trades_analyzed": 2740400,
+    "timing_stats": {
+      "min_seconds": -85658,
+      "max_seconds": 427811,
+      "median_seconds": 341,
+      "mean_seconds": 379.57589038096626,
+      "p10_seconds": 55,
+      "p25_seconds": 153,
+      "p75_seconds": 583,
+      "p90_seconds": 735
+    },
+    "before_resolution_count": 160,
+    "after_resolution_count": 2740240,
+    "peak_trading_windows": [
+      {
+        "minute_after": 0,
+        "count": 295031
+      },
+      {
+        "minute_after": 1,
+        "count": 248765
+      },
+      {
+        "minute_after": 2,
+        "count": 241179
+      },
+      {
+        "minute_after": 3,
+        "count": 227046
+      },
+      {
+        "minute_after": 4,
+        "count": 212255
+      },
+      {
+        "minute_after": 5,
+        "count": 194023
+      },
+      {
+        "minute_after": 7,
+        "count": 175591
+      },
+      {
+        "minute_after": 6,
+        "count": 173478
+      },
+      {
+        "minute_after": 8,
+        "count": 168968
+      },
+      {
+        "minute_after": 10,
+        "count": 165778
+      }
+    ]
+  },
+  "token_selection": {
+    "total_analyzed": 2904084,
+    "by_outcome": {
+      "UP": 1456389,
+      "DOWN": 1447695,
+      "UNKNOWN": 0
+    },
+    "by_asset": {
+      "ETH": {
+        "UP": 292034,
+        "DOWN": 284089,
+        "total": 576123
+      },
+      "BTC": {
+        "UP": 913992,
+        "DOWN": 913322,
+        "total": 1827314
+      },
+      "XRP": {
+        "UP": 83585,
+        "DOWN": 83465,
+        "total": 167050
+      },
+      "SOL": {
+        "UP": 89816,
+        "DOWN": 88625,
+        "total": 178441
+      },
+      "BITCOIN": {
+        "UP": 45022,
+        "DOWN": 45575,
+        "total": 90597
+      },
+      "ETHEREUM": {
+        "UP": 26613,
+        "DOWN": 26855,
+        "total": 53468
+      },
+      "SOLANA": {
+        "UP": 5327,
+        "DOWN": 5764,
+        "total": 11091
+      }
+    },
+    "by_side_and_outcome": {
+      "BUY": {
+        "UP": 1446180,
+        "DOWN": 1437543
+      },
+      "SELL": {
+        "UP": 10209,
+        "DOWN": 10152
+      }
+    },
+    "up_ratio": 0.5015
+  },
+  "pricing": {
+    "by_outcome": {
+      "UP": {
+        "count": 310249,
+        "min": 7.3e-05,
+        "max": 9.997267,
+        "median": 0.47,
+        "mean": 0.5046804430344659,
+        "p25": 0.3,
+        "p75": 0.62
+      },
+      "DOWN": {
+        "count": 308306,
+        "min": 9.2e-05,
+        "max": 9.99,
+        "median": 0.47,
+        "mean": 0.5058338852017151,
+        "p25": 0.3,
+        "p75": 0.63
+      }
+    },
+    "by_timing": {
+      "0-5min": {
+        "count": 235368,
+        "min": 0.000373,
+        "max": 9.959544,
+        "median": 0.5,
+        "mean": 0.5178808858256008,
+        "p25": 0.38,
+        "p75": 0.61
+      },
+      "5-10min": {
+        "count": 173780,
+        "min": 0.000126,
+        "max": 9.99,
+        "median": 0.44,
+        "mean": 0.477915619047071,
+        "p25": 0.27,
+        "p75": 0.64
+      },
+      "10-30min": {
+        "count": 149010,
+        "min": 7.3e-05,
+        "max": 9.997267,
+        "median": 0.37,
+        "mean": 0.49961109951681093,
+        "p25": 0.17,
+        "p75": 0.62
+      }
+    },
+    "by_side": {
+      "BUY": {
+        "count": 609630,
+        "min": 7.3e-05,
+        "max": 9.99,
+        "median": 0.47,
+        "mean": 0.47961087643160605,
+        "p25": 0.29,
+        "p75": 0.62
+      },
+      "SELL": {
+        "count": 8925,
+        "min": 0.009,
+        "max": 9.997267,
+        "median": 1.461745,
+        "mean": 2.2569239196638655,
+        "p25": 1.0,
+        "p75": 2.867217
+      }
+    }
+  },
+  "volume": {
+    "usdc_amounts": {
+      "count": 620602,
+      "total": 43867310.222587734,
+      "min": 0.0005,
+      "max": 32818.497293,
+      "median": 6.377777,
+      "mean": 70.68509322011208,
+      "p90": 43.43,
+      "p99": 1420.740356
+    },
+    "token_amounts": {
+      "count": 2904133,
+      "total": 190793659.16350633,
+      "min": 1e-06,
+      "max": 92359.50613,
+      "median": 15.542856,
+      "mean": 65.69728699184645,
+      "p90": 100.21,
+      "p99": 202.0
+    },
+    "by_asset": {
+      "ETH": {
+        "count": 136044,
+        "total": 10613665.481400985,
+        "min": 0.001225,
+        "max": 30650.036175,
+        "median": 7.29,
+        "mean": 78.01641734586605,
+        "p90": 38.4208,
+        "p99": 1636.692017
+      },
+      "BTC": {
+        "count": 297849,
+        "total": 13859892.62336505,
+        "min": 0.0005,
+        "max": 32818.497293,
+        "median": 5.85,
+        "mean": 46.533285736614864,
+        "p90": 42.3654,
+        "p99": 120.52
+      },
+      "XRP": {
+        "count": 67281,
+        "total": 8891810.828473998,
+        "min": 0.0008,
+        "max": 32818.497293,
+        "median": 6.85,
+        "mean": 132.159314345417,
+        "p90": 58.08,
+        "p99": 3229.662631
+      },
+      "SOL": {
+        "count": 69469,
+        "total": 9018347.869527997,
+        "min": 0.0018,
+        "max": 30650.036175,
+        "median": 6.695652,
+        "mean": 129.81830556835422,
+        "p90": 63.84,
+        "p99": 3237.507419
+      },
+      "BITCOIN": {
+        "count": 23707,
+        "total": 635381.0497099995,
+        "min": 0.0008,
+        "max": 8324.896085,
+        "median": 5.817,
+        "mean": 26.801410963428523,
+        "p90": 14.0,
+        "p99": 18.816
+      },
+      "ETHEREUM": {
+        "count": 15115,
+        "total": 496789.70545699954,
+        "min": 0.0011,
+        "max": 8324.896085,
+        "median": 5.6,
+        "mean": 32.86733082745617,
+        "p90": 14.4,
+        "p99": 502.524135
+      },
+      "SOLANA": {
+        "count": 11089,
+        "total": 344835.7446769994,
+        "min": 0.0032,
+        "max": 5462.486887,
+        "median": 5.76,
+        "mean": 31.09710025042835,
+        "p90": 15.0,
+        "p99": 677.992726
+      }
+    }
+  },
+  "clustering": {
+    "total_markets": 2638,
+    "trades_per_market": {
+      "min": 2,
+      "max": 5015,
+      "median": 830,
+      "mean": 1038.8172858225928,
+      "single_trade_markets": 0,
+      "multi_trade_markets": 2638
+    },
+    "time_between_trades": {
+      "count": 497914,
+      "min_seconds": 2,
+      "median_seconds": 2,
+      "mean_seconds": 6.917144326128609
+    }
+  },
+  "signals": {
+    "entry_price_patterns": {
+      "UP": {
+        "count": 303345,
+        "median": 0.464962,
+        "top_entry_prices": [
+          {
+            "price": 0.5,
+            "count": 56248,
+            "pct": 18.542583527007203
+          },
+          {
+            "price": 0.6,
+            "count": 44397,
+            "pct": 14.635810710577065
+          },
+          {
+            "price": 0.4,
+            "count": 41848,
+            "pct": 13.795513359376288
+          },
+          {
+            "price": 0.3,
+            "count": 37503,
+            "pct": 12.363150867823764
+          },
+          {
+            "price": 0.7,
+            "count": 33473,
+            "pct": 11.034630536188168
+          }
+        ]
+      },
+      "DOWN": {
+        "count": 301571,
+        "median": 0.46,
+        "top_entry_prices": [
+          {
+            "price": 0.5,
+            "count": 53116,
+            "pct": 17.613099402794035
+          },
+          {
+            "price": 0.6,
+            "count": 43855,
+            "pct": 14.54218077998216
+          },
+          {
+            "price": 0.4,
+            "count": 41695,
+            "pct": 13.825931538510003
+          },
+          {
+            "price": 0.3,
+            "count": 37870,
+            "pct": 12.557573506736391
+          },
+          {
+            "price": 0.7,
+            "count": 33769,
+            "pct": 11.197694738552446
+          }
+        ]
+      }
+    },
+    "potential_signals": [
+      "LIQUIDITY_BASED"
+    ]
+  }
+}

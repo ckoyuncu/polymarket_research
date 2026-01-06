@@ -1,0 +1,18 @@
+{
+  "total_analyzed": 500,
+  "avg_position_percentile": 54.57898308979832,
+  "median_position_percentile": 55.17586580086581,
+  "stdev_position_percentile": 19.989811436538947,
+  "pct_in_first_10": 0.6,
+  "pct_in_first_25": 8.0,
+  "pct_in_last_25": 18.8,
+  "pct_in_last_10": 1.4000000000000001,
+  "avg_gas_gwei": 405.027940345392,
+  "median_gas_gwei": 100.332559327,
+  "max_gas_gwei": 4233.527712845,
+  "min_gas_gwei": 35.000000106,
+  "avg_tx_index": 86.692,
+  "median_tx_index": 81.5,
+  "first_3_positions_pct": 0.0,
+  "high_gas_trades_pct": 36.8
+}

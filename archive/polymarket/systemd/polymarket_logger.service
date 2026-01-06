@@ -1,0 +1,29 @@
+[Unit]
+Description=Polymarket Order Book Logger
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+
+WorkingDirectory=/home/ubuntu/polymarket_starter
+ExecStart=/home/ubuntu/polymarket_starter/venv/bin/python scripts/polymarket_logger.py --region REGION_PLACEHOLDER --log-dir /data/logs
+
+# Auto-restart on failure
+Restart=always
+RestartSec=10
+
+# Environment
+Environment=PYTHONUNBUFFERED=1
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=polymarket_logger
+
+# Resource limits
+MemoryMax=256M
+
+[Install]
+WantedBy=multi-user.target

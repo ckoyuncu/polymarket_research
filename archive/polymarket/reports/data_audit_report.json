@@ -1,0 +1,178 @@
+{
+  "audit_timestamp": "2026-01-05T21:47:03.935237",
+  "checks": {
+    "trade_count_integrity": {
+      "status": "FAIL",
+      "details": {
+        "total_trades": 2904133,
+        "unique_tx_hashes": 2627902,
+        "duplicates": 276231,
+        "min_date": "2025-12-05 05:49:05+00:00",
+        "max_date": "2026-01-05 12:06:55+00:00",
+        "date_range_valid": true,
+        "message": "2,904,133 trades, 276231 duplicates"
+      }
+    },
+    "usdc_coverage": {
+      "status": "FAIL",
+      "details": {
+        "total_trades": 2904133,
+        "trades_with_usdc": 620602,
+        "coverage_pct": 21.37,
+        "unreasonable_price_count": 1999,
+        "price_stats": {
+          "min": 7.3e-05,
+          "max": 9.997267,
+          "median": 0.47,
+          "avg": 0.5052697639924152
+        },
+        "message": "21.4% USDC coverage (620,602/2,904,133)"
+      }
+    },
+    "metadata_coverage": {
+      "status": "WARN",
+      "details": {
+        "unique_tokens_in_trades": 20200,
+        "tokens_in_metadata": 20198,
+        "tokens_covered": 20198,
+        "tokens_missing": 2,
+        "coverage_pct": 99.99,
+        "fields_present": {
+          "slug": 20198,
+          "clobTokenIds": 20198,
+          "endDateIso": 20198
+        },
+        "slug_format_valid_count": 18706,
+        "sample_missing": [
+          "0",
+          "96280917979947700278559665940015007413001687527762706793209951784475602775339"
+        ],
+        "message": "100.0% metadata coverage, 2 missing tokens"
+      }
+    },
+    "timestamp_validity": {
+      "status": "FAIL",
+      "details": {
+        "timestamps_in_range": 2904133,
+        "timestamps_out_of_range": 0,
+        "resolution_valid": 0,
+        "resolution_issues_count": 919,
+        "sample_issues": [
+          {
+            "token_id": "31791450711466521470",
+            "slug_ts": 1767459600,
+            "iso_ts": 1767394800.0,
+            "diff_seconds": 64800.0
+          },
+          {
+            "token_id": "42522711335511416738",
+            "slug_ts": 1765718100,
+            "iso_ts": 1765666800.0,
+            "diff_seconds": 51300.0
+          },
+          {
+            "token_id": "35468219984467255163",
+            "slug_ts": 1767337200,
+            "iso_ts": 1767308400.0,
+            "diff_seconds": 28800.0
+          },
+          {
+            "token_id": "46801102769259620043",
+            "slug_ts": 1764993600,
+            "iso_ts": 1764975600.0,
+            "diff_seconds": 18000.0
+          },
+          {
+            "token_id": "13490459052263579584",
+            "slug_ts": 1766593800,
+            "iso_ts": 1766530800.0,
+            "diff_seconds": 63000.0
+          }
+        ],
+        "timing_diff_stats": {
+          "min": 5,
+          "max": 2985,
+          "median": 407,
+          "positive_count": 9999,
+          "negative_count": 0
+        },
+        "message": "0 timestamps out of range, 919 resolution mismatches"
+      }
+    },
+    "price_anomalies": {
+      "status": "FAIL",
+      "details": {
+        "total_with_price": 620602,
+        "price_distribution": {
+          "0-0.1": 31665,
+          "0.1-0.3": 121278,
+          "0.3-0.5": 186165,
+          "0.5-0.7": 178112,
+          "0.7-0.9": 78928,
+          "0.9-1.0": 8814,
+          ">1.0": 15640
+        },
+        "anomaly_counts": {
+          "above_1": 13641,
+          "negative": 0,
+          "extremely_high": 1999,
+          "zero_with_amounts": 2283531
+        },
+        "total_anomalies": 2299171,
+        "sample_extremely_high": [
+          {
+            "index": 102,
+            "price": 155.75
+          },
+          {
+            "index": 501,
+            "price": 24.787934
+          },
+          {
+            "index": 1828,
+            "price": 44.430007
+          },
+          {
+            "index": 2197,
+            "price": 116.571429
+          },
+          {
+            "index": 2553,
+            "price": 97.847541
+          }
+        ],
+        "message": "2,299,171 price anomalies detected"
+      }
+    },
+    "token_outcome_mapping": {
+      "status": "FAIL",
+      "details": {
+        "markets_checked": 0,
+        "up_first": 0,
+        "down_first": 0,
+        "inconclusive": 20198,
+        "no_clob_ids": 0,
+        "assumption_status": "INCONSISTENT ORDERING",
+        "message": "INCONSISTENT ORDERING"
+      }
+    }
+  },
+  "warnings": [
+    "metadata_coverage: 100.0% metadata coverage, 2 missing tokens"
+  ],
+  "errors": [
+    "trade_count_integrity: 2,904,133 trades, 276231 duplicates",
+    "usdc_coverage: 21.4% USDC coverage (620,602/2,904,133)",
+    "timestamp_validity: 0 timestamps out of range, 919 resolution mismatches",
+    "price_anomalies: 2,299,171 price anomalies detected",
+    "token_outcome_mapping: INCONSISTENT ORDERING"
+  ],
+  "summary": {
+    "total_checks": 6,
+    "passed": 0,
+    "warnings": 1,
+    "failed": 5,
+    "skipped": 0,
+    "overall_status": "FAIL"
+  }
+}

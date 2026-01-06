@@ -1,0 +1,48 @@
+name: momentum_follow
+version: "1.0"
+type: alpha_mined
+created_at: 1736000000
+
+source:
+  miner: PatternMiner
+  method: momentum_template
+  description: Follow confirmed momentum after Chainlink delta
+
+market_filters:
+  symbols:
+    - BTC
+    - ETH
+  market_type: 15m_updown
+
+entry_conditions:
+  - feature: mid_up
+    operator: gt
+    value: 0.03
+  - feature: spread_down
+    operator: gt
+    value: 0.01
+  - feature: t_since_start
+    operator: gt
+    value: 30
+
+exit_conditions:
+  - feature: mid_down
+    operator: gt
+    value: 0.02
+  - feature: t_since_start
+    operator: gt
+    value: 600
+
+entry_action:
+  type: buy
+  size_pct: 0.1
+  max_slippage_bps: 100
+  stop_loss_bps: 300
+  take_profit_bps: 150
+
+exit_action:
+  type: sell
+  max_slippage_bps: 100
+
+metrics: {}
+backtest_period: null

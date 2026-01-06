@@ -1,0 +1,1025 @@
+{
+  "time_coverage": {
+    "total_records": 232738,
+    "start_ts": 1767619076746,
+    "end_ts": 1767644874571,
+    "start_dt": "2026-01-05T13:17:56.746000+00:00",
+    "end_dt": "2026-01-05T20:27:54.571000+00:00",
+    "duration_sec": 25797.825,
+    "avg_interval_ms": 110.84492003884196,
+    "gaps_over_5sec": 0,
+    "largest_gap_sec": 0
+  },
+  "market_coverage": {
+    "btc-updown-15m-1767619800": {
+      "count": 188,
+      "first_ts": 1767619076746,
+      "last_ts": 1767619985714,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:17:56.746000+00:00",
+      "last_dt": "2026-01-05T13:33:05.714000+00:00"
+    },
+    "btc-updown-15m-1767620700": {
+      "count": 728,
+      "first_ts": 1767619077379,
+      "last_ts": 1767620900774,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:17:57.379000+00:00",
+      "last_dt": "2026-01-05T13:48:20.774000+00:00"
+    },
+    "btc-updown-15m-1767621600": {
+      "count": 1264,
+      "first_ts": 1767619077998,
+      "last_ts": 1767621825266,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:17:57.998000+00:00",
+      "last_dt": "2026-01-05T14:03:45.266000+00:00"
+    },
+    "btc-updown-15m-1767622500": {
+      "count": 1792,
+      "first_ts": 1767619078597,
+      "last_ts": 1767622739305,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:17:58.597000+00:00",
+      "last_dt": "2026-01-05T14:18:59.305000+00:00"
+    },
+    "btc-updown-15m-1767623400": {
+      "count": 2320,
+      "first_ts": 1767619079216,
+      "last_ts": 1767623656625,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:17:59.216000+00:00",
+      "last_dt": "2026-01-05T14:34:16.625000+00:00"
+    },
+    "btc-updown-15m-1767624300": {
+      "count": 2845,
+      "first_ts": 1767619079825,
+      "last_ts": 1767624571641,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:17:59.825000+00:00",
+      "last_dt": "2026-01-05T14:49:31.641000+00:00"
+    },
+    "btc-updown-15m-1767625200": {
+      "count": 3376,
+      "first_ts": 1767619080442,
+      "last_ts": 1767625484295,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:00.442000+00:00",
+      "last_dt": "2026-01-05T15:04:44.295000+00:00"
+    },
+    "btc-updown-15m-1767626100": {
+      "count": 3896,
+      "first_ts": 1767619081037,
+      "last_ts": 1767626401428,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:01.037000+00:00",
+      "last_dt": "2026-01-05T15:20:01.428000+00:00"
+    },
+    "eth-updown-15m-1767619800": {
+      "count": 188,
+      "first_ts": 1767619081623,
+      "last_ts": 1767619990834,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:01.623000+00:00",
+      "last_dt": "2026-01-05T13:33:10.834000+00:00"
+    },
+    "eth-updown-15m-1767620700": {
+      "count": 726,
+      "first_ts": 1767619082214,
+      "last_ts": 1767620905734,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:02.214000+00:00",
+      "last_dt": "2026-01-05T13:48:25.734000+00:00"
+    },
+    "eth-updown-15m-1767621600": {
+      "count": 1260,
+      "first_ts": 1767619082808,
+      "last_ts": 1767621820399,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:02.808000+00:00",
+      "last_dt": "2026-01-05T14:03:40.399000+00:00"
+    },
+    "eth-updown-15m-1767622500": {
+      "count": 1788,
+      "first_ts": 1767619083413,
+      "last_ts": 1767622734469,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:03.413000+00:00",
+      "last_dt": "2026-01-05T14:18:54.469000+00:00"
+    },
+    "eth-updown-15m-1767623400": {
+      "count": 2318,
+      "first_ts": 1767619084012,
+      "last_ts": 1767623651783,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:04.012000+00:00",
+      "last_dt": "2026-01-05T14:34:11.783000+00:00"
+    },
+    "eth-updown-15m-1767624300": {
+      "count": 2844,
+      "first_ts": 1767619084613,
+      "last_ts": 1767624566817,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:04.613000+00:00",
+      "last_dt": "2026-01-05T14:49:26.817000+00:00"
+    },
+    "eth-updown-15m-1767625200": {
+      "count": 3374,
+      "first_ts": 1767619085249,
+      "last_ts": 1767625489221,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:05.249000+00:00",
+      "last_dt": "2026-01-05T15:04:49.221000+00:00"
+    },
+    "eth-updown-15m-1767626100": {
+      "count": 3894,
+      "first_ts": 1767619085870,
+      "last_ts": 1767626406405,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:18:05.870000+00:00",
+      "last_dt": "2026-01-05T15:20:06.405000+00:00"
+    },
+    "btc-updown-15m-1767627000": {
+      "count": 4163,
+      "first_ts": 1767619841562,
+      "last_ts": 1767627116616,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:30:41.562000+00:00",
+      "last_dt": "2026-01-05T15:31:56.616000+00:00"
+    },
+    "eth-updown-15m-1767627000": {
+      "count": 4162,
+      "first_ts": 1767619844174,
+      "last_ts": 1767627119555,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:30:44.174000+00:00",
+      "last_dt": "2026-01-05T15:31:59.555000+00:00"
+    },
+    "btc-updown-15m-1767627900": {
+      "count": 4144,
+      "first_ts": 1767620755976,
+      "last_ts": 1767628026438,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:45:55.976000+00:00",
+      "last_dt": "2026-01-05T15:47:06.438000+00:00"
+    },
+    "eth-updown-15m-1767627900": {
+      "count": 4142,
+      "first_ts": 1767620758749,
+      "last_ts": 1767628029166,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T13:45:58.749000+00:00",
+      "last_dt": "2026-01-05T15:47:09.166000+00:00"
+    },
+    "unknown": {
+      "count": 61,
+      "first_ts": 1767620751191,
+      "last_ts": 1767643504744,
+      "token_ids": 41,
+      "first_dt": "2026-01-05T13:45:51.191000+00:00",
+      "last_dt": "2026-01-05T20:05:04.744000+00:00"
+    },
+    "btc-updown-15m-1767628800": {
+      "count": 4132,
+      "first_ts": 1767621666443,
+      "last_ts": 1767628936174,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:01:06.443000+00:00",
+      "last_dt": "2026-01-05T16:02:16.174000+00:00"
+    },
+    "eth-updown-15m-1767628800": {
+      "count": 4132,
+      "first_ts": 1767621669068,
+      "last_ts": 1767628938808,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:01:09.068000+00:00",
+      "last_dt": "2026-01-05T16:02:18.808000+00:00"
+    },
+    "btc-updown-15m-1767629700": {
+      "count": 4126,
+      "first_ts": 1767622574662,
+      "last_ts": 1767629847706,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:16:14.662000+00:00",
+      "last_dt": "2026-01-05T16:17:27.706000+00:00"
+    },
+    "eth-updown-15m-1767629700": {
+      "count": 4124,
+      "first_ts": 1767622577208,
+      "last_ts": 1767629850386,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:16:17.208000+00:00",
+      "last_dt": "2026-01-05T16:17:30.386000+00:00"
+    },
+    "btc-updown-15m-1767630600": {
+      "count": 4113,
+      "first_ts": 1767623484431,
+      "last_ts": 1767630760006,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:31:24.431000+00:00",
+      "last_dt": "2026-01-05T16:32:40.006000+00:00"
+    },
+    "eth-updown-15m-1767630600": {
+      "count": 4109,
+      "first_ts": 1767623487165,
+      "last_ts": 1767630757204,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:31:27.165000+00:00",
+      "last_dt": "2026-01-05T16:32:37.204000+00:00"
+    },
+    "btc-updown-15m-1767631500": {
+      "count": 4107,
+      "first_ts": 1767624393082,
+      "last_ts": 1767631668639,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:46:33.082000+00:00",
+      "last_dt": "2026-01-05T16:47:48.639000+00:00"
+    },
+    "eth-updown-15m-1767631500": {
+      "count": 4104,
+      "first_ts": 1767624395742,
+      "last_ts": 1767631665888,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T14:46:35.742000+00:00",
+      "last_dt": "2026-01-05T16:47:45.888000+00:00"
+    },
+    "btc-updown-15m-1767632400": {
+      "count": 4104,
+      "first_ts": 1767625307732,
+      "last_ts": 1767632579969,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:01:47.732000+00:00",
+      "last_dt": "2026-01-05T17:02:59.969000+00:00"
+    },
+    "eth-updown-15m-1767632400": {
+      "count": 4102,
+      "first_ts": 1767625310533,
+      "last_ts": 1767632577379,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:01:50.533000+00:00",
+      "last_dt": "2026-01-05T17:02:57.379000+00:00"
+    },
+    "btc-updown-15m-1767633300": {
+      "count": 4112,
+      "first_ts": 1767626216221,
+      "last_ts": 1767633489346,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:16:56.221000+00:00",
+      "last_dt": "2026-01-05T17:18:09.346000+00:00"
+    },
+    "eth-updown-15m-1767633300": {
+      "count": 4108,
+      "first_ts": 1767626219584,
+      "last_ts": 1767633486583,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:16:59.584000+00:00",
+      "last_dt": "2026-01-05T17:18:06.583000+00:00"
+    },
+    "btc-updown-15m-1767634200": {
+      "count": 4180,
+      "first_ts": 1767627031533,
+      "last_ts": 1767634398757,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:30:31.533000+00:00",
+      "last_dt": "2026-01-05T17:33:18.757000+00:00"
+    },
+    "eth-updown-15m-1767634200": {
+      "count": 4176,
+      "first_ts": 1767627036462,
+      "last_ts": 1767634396116,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:30:36.462000+00:00",
+      "last_dt": "2026-01-05T17:33:16.116000+00:00"
+    },
+    "btc-updown-15m-1767635100": {
+      "count": 4185,
+      "first_ts": 1767627947748,
+      "last_ts": 1767635309695,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:45:47.748000+00:00",
+      "last_dt": "2026-01-05T17:48:29.695000+00:00"
+    },
+    "eth-updown-15m-1767635100": {
+      "count": 4182,
+      "first_ts": 1767627952517,
+      "last_ts": 1767635306916,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T15:45:52.517000+00:00",
+      "last_dt": "2026-01-05T17:48:26.916000+00:00"
+    },
+    "btc-updown-15m-1767636000": {
+      "count": 4184,
+      "first_ts": 1767628859638,
+      "last_ts": 1767636220354,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:00:59.638000+00:00",
+      "last_dt": "2026-01-05T18:03:40.354000+00:00"
+    },
+    "eth-updown-15m-1767636000": {
+      "count": 4181,
+      "first_ts": 1767628864386,
+      "last_ts": 1767636217526,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:01:04.386000+00:00",
+      "last_dt": "2026-01-05T18:03:37.526000+00:00"
+    },
+    "btc-updown-15m-1767636900": {
+      "count": 4181,
+      "first_ts": 1767629778804,
+      "last_ts": 1767637128570,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:16:18.804000+00:00",
+      "last_dt": "2026-01-05T18:18:48.570000+00:00"
+    },
+    "eth-updown-15m-1767636900": {
+      "count": 4181,
+      "first_ts": 1767629783512,
+      "last_ts": 1767637131254,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:16:23.512000+00:00",
+      "last_dt": "2026-01-05T18:18:51.254000+00:00"
+    },
+    "btc-updown-15m-1767637800": {
+      "count": 4192,
+      "first_ts": 1767630694692,
+      "last_ts": 1767638040590,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:31:34.692000+00:00",
+      "last_dt": "2026-01-05T18:34:00.590000+00:00"
+    },
+    "eth-updown-15m-1767637800": {
+      "count": 4188,
+      "first_ts": 1767630699768,
+      "last_ts": 1767638037751,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:31:39.768000+00:00",
+      "last_dt": "2026-01-05T18:33:57.751000+00:00"
+    },
+    "btc-updown-15m-1767638700": {
+      "count": 4191,
+      "first_ts": 1767631614168,
+      "last_ts": 1767638949078,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:46:54.168000+00:00",
+      "last_dt": "2026-01-05T18:49:09.078000+00:00"
+    },
+    "eth-updown-15m-1767638700": {
+      "count": 4191,
+      "first_ts": 1767631619002,
+      "last_ts": 1767638951575,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T16:46:59.002000+00:00",
+      "last_dt": "2026-01-05T18:49:11.575000+00:00"
+    },
+    "btc-updown-15m-1767639600": {
+      "count": 4186,
+      "first_ts": 1767632524871,
+      "last_ts": 1767639856986,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:02:04.871000+00:00",
+      "last_dt": "2026-01-05T19:04:16.986000+00:00"
+    },
+    "eth-updown-15m-1767639600": {
+      "count": 4186,
+      "first_ts": 1767632529614,
+      "last_ts": 1767639859741,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:02:09.614000+00:00",
+      "last_dt": "2026-01-05T19:04:19.741000+00:00"
+    },
+    "btc-updown-15m-1767640500": {
+      "count": 4188,
+      "first_ts": 1767633445928,
+      "last_ts": 1767640771747,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:17:25.928000+00:00",
+      "last_dt": "2026-01-05T19:19:31.747000+00:00"
+    },
+    "eth-updown-15m-1767640500": {
+      "count": 4184,
+      "first_ts": 1767633450781,
+      "last_ts": 1767640768980,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:17:30.781000+00:00",
+      "last_dt": "2026-01-05T19:19:28.980000+00:00"
+    },
+    "btc-updown-15m-1767641400": {
+      "count": 4182,
+      "first_ts": 1767634359743,
+      "last_ts": 1767641679357,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:32:39.743000+00:00",
+      "last_dt": "2026-01-05T19:34:39.357000+00:00"
+    },
+    "eth-updown-15m-1767641400": {
+      "count": 4182,
+      "first_ts": 1767634364650,
+      "last_ts": 1767641682226,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:32:44.650000+00:00",
+      "last_dt": "2026-01-05T19:34:42.226000+00:00"
+    },
+    "btc-updown-15m-1767642300": {
+      "count": 4182,
+      "first_ts": 1767635276090,
+      "last_ts": 1767642587745,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:47:56.090000+00:00",
+      "last_dt": "2026-01-05T19:49:47.745000+00:00"
+    },
+    "eth-updown-15m-1767642300": {
+      "count": 4182,
+      "first_ts": 1767635280805,
+      "last_ts": 1767642591369,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T17:48:00.805000+00:00",
+      "last_dt": "2026-01-05T19:49:51.369000+00:00"
+    },
+    "btc-updown-15m-1767643200": {
+      "count": 4186,
+      "first_ts": 1767636189238,
+      "last_ts": 1767643501948,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:03:09.238000+00:00",
+      "last_dt": "2026-01-05T20:05:01.948000+00:00"
+    },
+    "eth-updown-15m-1767643200": {
+      "count": 4182,
+      "first_ts": 1767636193961,
+      "last_ts": 1767643499607,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:03:13.961000+00:00",
+      "last_dt": "2026-01-05T20:04:59.607000+00:00"
+    },
+    "btc-updown-15m-1767644100": {
+      "count": 4215,
+      "first_ts": 1767637104684,
+      "last_ts": 1767644117683,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:18:24.684000+00:00",
+      "last_dt": "2026-01-05T20:15:17.683000+00:00"
+    },
+    "eth-updown-15m-1767644100": {
+      "count": 4215,
+      "first_ts": 1767637109453,
+      "last_ts": 1767644121253,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:18:29.453000+00:00",
+      "last_dt": "2026-01-05T20:15:21.253000+00:00"
+    },
+    "btc-updown-15m-1767645000": {
+      "count": 4386,
+      "first_ts": 1767638026672,
+      "last_ts": 1767644871903,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:33:46.672000+00:00",
+      "last_dt": "2026-01-05T20:27:51.903000+00:00"
+    },
+    "eth-updown-15m-1767645000": {
+      "count": 4386,
+      "first_ts": 1767638031481,
+      "last_ts": 1767644873580,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:33:51.481000+00:00",
+      "last_dt": "2026-01-05T20:27:53.580000+00:00"
+    },
+    "btc-updown-15m-1767645900": {
+      "count": 3865,
+      "first_ts": 1767638939083,
+      "last_ts": 1767644872251,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:48:59.083000+00:00",
+      "last_dt": "2026-01-05T20:27:52.251000+00:00"
+    },
+    "eth-updown-15m-1767645900": {
+      "count": 3863,
+      "first_ts": 1767638944016,
+      "last_ts": 1767644873895,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T18:49:04.016000+00:00",
+      "last_dt": "2026-01-05T20:27:53.895000+00:00"
+    },
+    "btc-updown-15m-1767646800": {
+      "count": 3346,
+      "first_ts": 1767639851974,
+      "last_ts": 1767644872595,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T19:04:11.974000+00:00",
+      "last_dt": "2026-01-05T20:27:52.595000+00:00"
+    },
+    "eth-updown-15m-1767646800": {
+      "count": 3344,
+      "first_ts": 1767639856755,
+      "last_ts": 1767644874229,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T19:04:16.755000+00:00",
+      "last_dt": "2026-01-05T20:27:54.229000+00:00"
+    },
+    "btc-updown-15m-1767647700": {
+      "count": 2815,
+      "first_ts": 1767640775824,
+      "last_ts": 1767644872911,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T19:19:35.824000+00:00",
+      "last_dt": "2026-01-05T20:27:52.911000+00:00"
+    },
+    "eth-updown-15m-1767647700": {
+      "count": 2814,
+      "first_ts": 1767640780535,
+      "last_ts": 1767644874571,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T19:19:40.535000+00:00",
+      "last_dt": "2026-01-05T20:27:54.571000+00:00"
+    },
+    "btc-updown-15m-1767648600": {
+      "count": 2297,
+      "first_ts": 1767641685872,
+      "last_ts": 1767644873249,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T19:34:45.872000+00:00",
+      "last_dt": "2026-01-05T20:27:53.249000+00:00"
+    },
+    "eth-updown-15m-1767648600": {
+      "count": 2294,
+      "first_ts": 1767641689619,
+      "last_ts": 1767644871590,
+      "token_ids": 2,
+      "first_dt": "2026-01-05T19:34:49.619000+00:00",
+      "last_dt": "2026-01-05T20:27:51.590000+00:00"
+    }
+  },
+  "spread_distribution": {
+    "count": 232738,
+    "min": 0.98,
+    "max": 0.98,
+    "median": 0.98,
+    "p10": 0.98,
+    "p90": 0.98,
+    "avg": 0.980000000003691
+  },
+  "imbalance_distribution": {
+    "count": 232738,
+    "min": -0.898989898989899,
+    "max": 0.898989898989899,
+    "median": 0.0,
+    "p10": -0.030303030303030304,
+    "p90": 0.030303030303030304,
+    "avg": 7.626381906746447e-06,
+    "strong_bid_side": 725,
+    "strong_ask_side": 718,
+    "strong_imbalance_pct": 0.6200104838917581
+  },
+  "final_30_seconds": {
+    "markets_analyzed": 56,
+    "details": [
+      {
+        "slug": "btc-updown-15m-1767619800",
+        "resolution_ts": 1767619800000,
+        "records_in_final_30s": 8,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "btc-updown-15m-1767620700",
+        "resolution_ts": 1767620700000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.013431013431013432,
+        "avg_imbalance_last_15s": -0.01481816837622081,
+        "imbalance_trend": -0.028249181807234243
+      },
+      {
+        "slug": "btc-updown-15m-1767621600",
+        "resolution_ts": 1767621600000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": -0.002653962766322317,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.002653962766322317
+      },
+      {
+        "slug": "btc-updown-15m-1767622500",
+        "resolution_ts": 1767622500000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.0011695906432748538,
+        "avg_imbalance_last_15s": 0.0011695906432748536,
+        "imbalance_trend": 0.0023391812865497076
+      },
+      {
+        "slug": "btc-updown-15m-1767623400",
+        "resolution_ts": 1767623400000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": -0.007494262765347102,
+        "avg_imbalance_last_15s": 0.0060586885356552255,
+        "imbalance_trend": 0.013552951301002328
+      },
+      {
+        "slug": "btc-updown-15m-1767624300",
+        "resolution_ts": 1767624300000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0027200456548282636,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": -0.0027200456548282636
+      },
+      {
+        "slug": "btc-updown-15m-1767625200",
+        "resolution_ts": 1767625200000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.00613154960981048,
+        "avg_imbalance_last_15s": 0.009972652314272202,
+        "imbalance_trend": 0.016104201924082684
+      },
+      {
+        "slug": "btc-updown-15m-1767626100",
+        "resolution_ts": 1767626100000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.0103359173126615,
+        "avg_imbalance_last_15s": 0.0103359173126615,
+        "imbalance_trend": 0.020671834625323
+      },
+      {
+        "slug": "eth-updown-15m-1767619800",
+        "resolution_ts": 1767619800000,
+        "records_in_final_30s": 6,
+        "avg_imbalance_first_15s": 0.0392156862745098,
+        "avg_imbalance_last_15s": -0.0392156862745098,
+        "imbalance_trend": -0.0784313725490196
+      },
+      {
+        "slug": "eth-updown-15m-1767620700",
+        "resolution_ts": 1767620700000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.024875621890547265,
+        "avg_imbalance_last_15s": -0.02690000652362755,
+        "imbalance_trend": -0.05177562841417482
+      },
+      {
+        "slug": "eth-updown-15m-1767621600",
+        "resolution_ts": 1767621600000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.009523809523809525,
+        "avg_imbalance_last_15s": -0.009523809523809525,
+        "imbalance_trend": -0.01904761904761905
+      },
+      {
+        "slug": "eth-updown-15m-1767622500",
+        "resolution_ts": 1767622500000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.010101010101010102,
+        "avg_imbalance_last_15s": -0.011724492145298693,
+        "imbalance_trend": -0.021825502246308796
+      },
+      {
+        "slug": "eth-updown-15m-1767623400",
+        "resolution_ts": 1767623400000,
+        "records_in_final_30s": 20,
+        "avg_imbalance_first_15s": -0.0015291750503018107,
+        "avg_imbalance_last_15s": 0.002638050525374469,
+        "imbalance_trend": 0.004167225575676279
+      },
+      {
+        "slug": "eth-updown-15m-1767624300",
+        "resolution_ts": 1767624300000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.01346801346801347,
+        "avg_imbalance_last_15s": 0.01346801346801347,
+        "imbalance_trend": 0.02693602693602694
+      },
+      {
+        "slug": "eth-updown-15m-1767625200",
+        "resolution_ts": 1767625200000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "eth-updown-15m-1767626100",
+        "resolution_ts": 1767626100000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.012454212454212453,
+        "avg_imbalance_last_15s": -0.015873015873015872,
+        "imbalance_trend": -0.028327228327228324
+      },
+      {
+        "slug": "btc-updown-15m-1767627000",
+        "resolution_ts": 1767627000000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "eth-updown-15m-1767627000",
+        "resolution_ts": 1767627000000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.00980392156862745,
+        "avg_imbalance_last_15s": -0.0066342060654386486,
+        "imbalance_trend": -0.0164381276340661
+      },
+      {
+        "slug": "btc-updown-15m-1767627900",
+        "resolution_ts": 1767627900000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.007751937984496124,
+        "avg_imbalance_last_15s": 0.007751937984496124,
+        "imbalance_trend": 0.015503875968992248
+      },
+      {
+        "slug": "eth-updown-15m-1767627900",
+        "resolution_ts": 1767627900000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.01346801346801347,
+        "avg_imbalance_last_15s": 0.011965811965811967,
+        "imbalance_trend": 0.025433825433825434
+      },
+      {
+        "slug": "btc-updown-15m-1767628800",
+        "resolution_ts": 1767628800000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.006385696040868454,
+        "avg_imbalance_last_15s": 0.006385696040868454,
+        "imbalance_trend": 0.012771392081736908
+      },
+      {
+        "slug": "eth-updown-15m-1767628800",
+        "resolution_ts": 1767628800000,
+        "records_in_final_30s": 17,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": -0.013071895424836602,
+        "imbalance_trend": -0.013071895424836602
+      },
+      {
+        "slug": "btc-updown-15m-1767629700",
+        "resolution_ts": 1767629700000,
+        "records_in_final_30s": 17,
+        "avg_imbalance_first_15s": -0.001537022186581128,
+        "avg_imbalance_last_15s": -0.011734306125550995,
+        "imbalance_trend": -0.010197283938969867
+      },
+      {
+        "slug": "eth-updown-15m-1767629700",
+        "resolution_ts": 1767629700000,
+        "records_in_final_30s": 17,
+        "avg_imbalance_first_15s": -0.001976284584980237,
+        "avg_imbalance_last_15s": 0.0017094017094017096,
+        "imbalance_trend": 0.0036856862943819464
+      },
+      {
+        "slug": "btc-updown-15m-1767630600",
+        "resolution_ts": 1767630600000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0015406162464985992,
+        "avg_imbalance_last_15s": 0.0015047879616963064,
+        "imbalance_trend": -3.582828480229276e-05
+      },
+      {
+        "slug": "eth-updown-15m-1767630600",
+        "resolution_ts": 1767630600000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.010954616588419404,
+        "avg_imbalance_last_15s": -0.010954616588419406,
+        "imbalance_trend": -0.021909233176838808
+      },
+      {
+        "slug": "btc-updown-15m-1767631500",
+        "resolution_ts": 1767631500000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.006385696040868454,
+        "avg_imbalance_last_15s": -0.006579269405173526,
+        "imbalance_trend": -0.01296496544604198
+      },
+      {
+        "slug": "eth-updown-15m-1767631500",
+        "resolution_ts": 1767631500000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.012698412698412698,
+        "avg_imbalance_last_15s": -0.010113891199860565,
+        "imbalance_trend": -0.022812303898273264
+      },
+      {
+        "slug": "btc-updown-15m-1767632400",
+        "resolution_ts": 1767632400000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.00392229243118436,
+        "avg_imbalance_last_15s": -0.0026455026455026454,
+        "imbalance_trend": -0.006567795076687005
+      },
+      {
+        "slug": "eth-updown-15m-1767632400",
+        "resolution_ts": 1767632400000,
+        "records_in_final_30s": 20,
+        "avg_imbalance_first_15s": -0.001488933601609658,
+        "avg_imbalance_last_15s": 0.006635267746831869,
+        "imbalance_trend": 0.008124201348441527
+      },
+      {
+        "slug": "btc-updown-15m-1767633300",
+        "resolution_ts": 1767633300000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0013918106287584206,
+        "imbalance_trend": 0.0013918106287584206
+      },
+      {
+        "slug": "eth-updown-15m-1767633300",
+        "resolution_ts": 1767633300000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.004654393467178854,
+        "avg_imbalance_last_15s": -0.00021164021164021154,
+        "imbalance_trend": -0.004866033678819066
+      },
+      {
+        "slug": "btc-updown-15m-1767634200",
+        "resolution_ts": 1767634200000,
+        "records_in_final_30s": 20,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.003000051872600891,
+        "imbalance_trend": 0.003000051872600891
+      },
+      {
+        "slug": "eth-updown-15m-1767634200",
+        "resolution_ts": 1767634200000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "btc-updown-15m-1767635100",
+        "resolution_ts": 1767635100000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.005050505050505051,
+        "avg_imbalance_last_15s": 0.0038327676659673455,
+        "imbalance_trend": 0.008883272716472396
+      },
+      {
+        "slug": "eth-updown-15m-1767635100",
+        "resolution_ts": 1767635100000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "btc-updown-15m-1767636000",
+        "resolution_ts": 1767636000000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0013305322128851545,
+        "avg_imbalance_last_15s": -0.0032411120021384656,
+        "imbalance_trend": -0.00457164421502362
+      },
+      {
+        "slug": "eth-updown-15m-1767636000",
+        "resolution_ts": 1767636000000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.0060864425518101,
+        "avg_imbalance_last_15s": 0.008093546906332294,
+        "imbalance_trend": 0.014179989458142394
+      },
+      {
+        "slug": "btc-updown-15m-1767636900",
+        "resolution_ts": 1767636900000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "eth-updown-15m-1767636900",
+        "resolution_ts": 1767636900000,
+        "records_in_final_30s": 17,
+        "avg_imbalance_first_15s": -0.005594629156010231,
+        "avg_imbalance_last_15s": -0.0016439770599201524,
+        "imbalance_trend": 0.003950652096090078
+      },
+      {
+        "slug": "btc-updown-15m-1767637800",
+        "resolution_ts": 1767637800000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": 0.009370816599732261,
+        "avg_imbalance_last_15s": -0.009370816599732261,
+        "imbalance_trend": -0.018741633199464522
+      },
+      {
+        "slug": "eth-updown-15m-1767637800",
+        "resolution_ts": 1767637800000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.018656716417910446,
+        "avg_imbalance_last_15s": -0.018656716417910446,
+        "imbalance_trend": -0.03731343283582089
+      },
+      {
+        "slug": "btc-updown-15m-1767638700",
+        "resolution_ts": 1767638700000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "eth-updown-15m-1767638700",
+        "resolution_ts": 1767638700000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.001658374792703151,
+        "avg_imbalance_last_15s": 0.003937577071905431,
+        "imbalance_trend": 0.005595951864608582
+      },
+      {
+        "slug": "btc-updown-15m-1767639600",
+        "resolution_ts": 1767639600000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.011764705882352941,
+        "avg_imbalance_last_15s": 0.009119203236850296,
+        "imbalance_trend": 0.020883909119203237
+      },
+      {
+        "slug": "eth-updown-15m-1767639600",
+        "resolution_ts": 1767639600000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0,
+        "imbalance_trend": 0.0
+      },
+      {
+        "slug": "btc-updown-15m-1767640500",
+        "resolution_ts": 1767640500000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.005291005291005291,
+        "avg_imbalance_last_15s": 0.005291005291005291,
+        "imbalance_trend": 0.010582010582010581
+      },
+      {
+        "slug": "eth-updown-15m-1767640500",
+        "resolution_ts": 1767640500000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.0019668737060041415,
+        "imbalance_trend": 0.0019668737060041415
+      },
+      {
+        "slug": "btc-updown-15m-1767641400",
+        "resolution_ts": 1767641400000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.00130718954248366,
+        "avg_imbalance_last_15s": 0.00130718954248366,
+        "imbalance_trend": 0.00261437908496732
+      },
+      {
+        "slug": "eth-updown-15m-1767641400",
+        "resolution_ts": 1767641400000,
+        "records_in_final_30s": 17,
+        "avg_imbalance_first_15s": -0.002035278154681141,
+        "avg_imbalance_last_15s": 0.010101010101010102,
+        "imbalance_trend": 0.012136288255691243
+      },
+      {
+        "slug": "btc-updown-15m-1767642300",
+        "resolution_ts": 1767642300000,
+        "records_in_final_30s": 18,
+        "avg_imbalance_first_15s": -0.002777777777777778,
+        "avg_imbalance_last_15s": 0.0028133736174054975,
+        "imbalance_trend": 0.005591151395183276
+      },
+      {
+        "slug": "eth-updown-15m-1767642300",
+        "resolution_ts": 1767642300000,
+        "records_in_final_30s": 16,
+        "avg_imbalance_first_15s": -0.0021152829190904283,
+        "avg_imbalance_last_15s": 0.0019189538242292373,
+        "imbalance_trend": 0.0040342367433196654
+      },
+      {
+        "slug": "btc-updown-15m-1767643200",
+        "resolution_ts": 1767643200000,
+        "records_in_final_30s": 20,
+        "avg_imbalance_first_15s": -0.0012929767851895383,
+        "avg_imbalance_last_15s": -0.0011708860759493665,
+        "imbalance_trend": 0.00012209070924017185
+      },
+      {
+        "slug": "eth-updown-15m-1767643200",
+        "resolution_ts": 1767643200000,
+        "records_in_final_30s": 20,
+        "avg_imbalance_first_15s": 0.0,
+        "avg_imbalance_last_15s": 0.005317164179104478,
+        "imbalance_trend": 0.005317164179104478
+      },
+      {
+        "slug": "btc-updown-15m-1767644100",
+        "resolution_ts": 1767644100000,
+        "records_in_final_30s": 24,
+        "avg_imbalance_first_15s": -5.930142916444244e-05,
+        "avg_imbalance_last_15s": -0.0012312312312312314,
+        "imbalance_trend": -0.001171929802066789
+      },
+      {
+        "slug": "eth-updown-15m-1767644100",
+        "resolution_ts": 1767644100000,
+        "records_in_final_30s": 24,
+        "avg_imbalance_first_15s": -0.001281471430725162,
+        "avg_imbalance_last_15s": 0.004810495021980461,
+        "imbalance_trend": 0.006091966452705624
+      }
+    ]
+  }
+}

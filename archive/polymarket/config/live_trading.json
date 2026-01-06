@@ -1,0 +1,24 @@
+{
+  "_comment": "Conservative live trading configuration - Learning First Approach",
+  "_capital": "$300 budget, survive to learn",
+  "_created": "2026-01-06",
+
+  "total_capital": 300.0,
+  "max_position_size": 15.0,
+  "max_daily_loss": 30.0,
+  "max_trades_per_day": 20,
+
+  "consecutive_loss_pause_count": 3,
+  "consecutive_loss_pause_minutes": 30,
+  "max_consecutive_errors": 3,
+
+  "btc_imbalance_threshold": 0.5,
+  "eth_momentum_threshold": 0.001,
+  "min_confidence": 0.6,
+
+  "min_time_before_close_sec": 30,
+  "max_time_before_close_sec": 60,
+  "poll_interval_sec": 5,
+
+  "dry_run": true
+}

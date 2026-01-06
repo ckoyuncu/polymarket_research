@@ -1,0 +1,20 @@
+[Unit]
+Description=Polymarket Maker Bot
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/polymarket_starter
+Environment=PATH=/home/ubuntu/polymarket_starter/venv/bin:/usr/bin
+ExecStart=/home/ubuntu/polymarket_starter/venv/bin/python -m src.maker.live_maker_bot --bid-yes 0.45 --bid-no 0.45 --size 5.0
+Restart=always
+RestartSec=30
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=maker-bot
+
+[Install]
+WantedBy=multi-user.target

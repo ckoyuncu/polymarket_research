@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-01-05T23:14:26.511416+00:00",
+  "all_passed": false,
+  "results": [
+    {
+      "name": "Environment Variables",
+      "passed": true,
+      "message": "All required env vars set",
+      "details": {
+        "funder": "0xd27919c4aaaD3a5E69..."
+      }
+    },
+    {
+      "name": "Gamma API (Market Discovery)",
+      "passed": true,
+      "message": "Found 5 markets",
+      "details": {
+        "sample_market": "Will Joe Biden get Coronavirus before the election"
+      }
+    },
+    {
+      "name": "CLOB Client (Trading API)",
+      "passed": true,
+      "message": "Authenticated (mode=2)",
+      "details": {
+        "address": "0x39b29fAaBefC59D827..."
+      }
+    },
+    {
+      "name": "15-Min Market Discovery",
+      "passed": false,
+      "message": "Only found 0 markets (need >= 5)",
+      "details": {}
+    },
+    {
+      "name": "Orderbook/Price Feed",
+      "passed": false,
+      "message": "Orderbook error: PolyApiException[status_code=404, error_message={'error': 'No orderbook exists for the requested token id'}]",
+      "details": {}
+    },
+    {
+      "name": "Recent Market Resolutions",
+      "passed": true,
+      "message": "No resolutions in last hour (normal)",
+      "details": {}
+    },
+    {
+      "name": "Post-Resolution Trading Feasibility",
+      "passed": false,
+      "message": "Could not find resolved market",
+      "details": {}
+    }
+  ]
+}

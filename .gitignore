@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment
+.env
+*.pem
+*.key
+
+# Data
+data/*/
+!data/.gitkeep
+data/*_trades_*.json
+data/blockchain_*.json
+data/etherscan_*.json
+data/account88888_trades_joined.json
+data/token_to_market_full.json
+data/binance_klines_full.csv
+data/unique_token_ids.json
+data/*.jsonl
+data/ec2_transfers/
+logs/
+*.log
+data/fetch_*.log
+*.db
+*.sqlite
+
+# Large archive data files (too big for git)
+archive/polymarket/data/ec2_transfers/
+archive/polymarket/data/account88888_trades_joined.json
+archive/polymarket/data/token_to_market.json
+archive/polymarket/data/blockchain_trades_*.json
+archive/polymarket/data/etherscan_trades_*.json
+archive/polymarket/data/binance_klines_full.csv
+archive/polymarket/data/polymarket_markets_batch*.json
+archive/polymarket/data/unique_token_ids.json
+archive/polymarket/data/*.jsonl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*_backup_*/
+*.bak
+
+# Instance details
+instance-details.txt
+data/polymarket_markets_batch*.json
+data/token_to_market.json
+
+# Bot state (regenerated at runtime)
+maker_bot_state.json
+bot_state.json
+
+# Claude Code
+.claude/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/

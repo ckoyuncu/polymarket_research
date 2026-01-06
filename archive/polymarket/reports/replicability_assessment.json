@@ -1,0 +1,135 @@
+{
+  "assessments": {
+    "entry_signals": {
+      "timing_analysis": {
+        "total_sampled": 99999,
+        "after_resolution_pct": 99.9559995599956,
+        "median_seconds_after": 411
+      },
+      "price_analysis": {
+        "median_entry_price": 0.47,
+        "price_std_dev": 0.4964279582283972
+      },
+      "score": 5,
+      "max_score": 5,
+      "reasons": [
+        "Clear: Trade after resolution (99%+)",
+        "Consistent timing window (~6.8 min after)",
+        "Buying near fair value ($0.47)",
+        "Simple pattern: post-resolution market making"
+      ]
+    },
+    "execution": {
+      "trade_frequency": {
+        "total_trades": 2904133,
+        "trades_per_day": 93681.70967741935,
+        "median_gap_seconds": 4,
+        "min_gap_seconds": 2
+      },
+      "infrastructure_needs": [
+        "WebSocket connection to Polymarket",
+        "Fast blockchain transaction submission",
+        "Market resolution monitoring",
+        "Automated trading bot"
+      ],
+      "score": 4,
+      "max_score": 5,
+      "reasons": [
+        "High volume (93682 trades/day) - requires automation",
+        "Reasonable pace (4s between trades)",
+        "Standard API infrastructure needed"
+      ]
+    },
+    "capital": {
+      "observed_capital": {
+        "total_volume": 43867310.22259089,
+        "median_trade": 6.3777065,
+        "mean_trade": 70.68509322011208,
+        "max_trade": 32818.497293,
+        "p90_trade": 43.43
+      },
+      "estimated_minimum": 318.885325,
+      "estimated_comfortable": 7068.509322011208,
+      "score": 5,
+      "max_score": 5,
+      "reasons": [
+        "Low minimum (~$319)",
+        "Small position sizes ($6.38 median)",
+        "Position sizing appears flexible"
+      ]
+    },
+    "sustainability": {
+      "edge_source_hypothesis": [
+        "Post-resolution market making",
+        "Providing liquidity to exiting traders",
+        "Capturing spread on resolved tokens"
+      ],
+      "competition_analysis": {
+        "barriers_to_entry": "Low - anyone can trade post-resolution",
+        "competitive_moat": "Speed and automation",
+        "market_capacity": "Limited by Polymarket volume"
+      },
+      "score": 3,
+      "max_score": 5,
+      "reasons": [
+        "Edge source: likely liquidity provision (unclear profitability)",
+        "Low barriers - competition could erode edge",
+        "Polymarket volumes growing - more opportunity",
+        "Capacity constrained by market liquidity"
+      ]
+    },
+    "risks": {
+      "identified_risks": [
+        {
+          "risk": "Smart Contract Risk",
+          "description": "Polymarket contracts could have bugs",
+          "mitigation": "Use small positions, monitor contracts",
+          "severity": "Medium"
+        },
+        {
+          "risk": "Execution Risk",
+          "description": "Trades may fail or be front-run",
+          "mitigation": "Use appropriate gas, monitor success rate",
+          "severity": "Medium"
+        },
+        {
+          "risk": "Market Structure Risk",
+          "description": "Post-resolution trading rules may change",
+          "mitigation": "Monitor Polymarket announcements",
+          "severity": "High"
+        },
+        {
+          "risk": "Profitability Risk",
+          "description": "Strategy may not be profitable after fees",
+          "mitigation": "Paper trade first, calculate all costs",
+          "severity": "High"
+        },
+        {
+          "risk": "Competition Risk",
+          "description": "Others may adopt same strategy",
+          "mitigation": "Speed advantage, larger capital",
+          "severity": "Medium"
+        }
+      ],
+      "score": 2,
+      "max_score": 5,
+      "reasons": [
+        "Multiple high-severity risks identified"
+      ]
+    }
+  },
+  "overall": {
+    "total_score": 19,
+    "max_score": 25,
+    "percentage": 76.0,
+    "individual_scores": {
+      "entry_signals": 5,
+      "execution": 4,
+      "capital": 5,
+      "sustainability": 3,
+      "risks": 2
+    },
+    "recommendation": "MODERATELY REPLICABLE - Some challenges but potentially viable"
+  },
+  "timestamp": "2026-01-05T21:52:04.543486"
+}

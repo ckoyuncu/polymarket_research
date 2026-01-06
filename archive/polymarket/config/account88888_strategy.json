@@ -1,0 +1,120 @@
+{
+  "strategy_name": "Account88888 Arbitrage Replication",
+  "generated_at": "2026-01-04T15:53:41.177441",
+  "updated_at": "2026-01-05T02:30:00.000000",
+  "version": "3.0",
+  "notes": "COMPLETE ANALYSIS: Based on full 5000 trades (2269 15-min up/down markets)",
+  "data_source": {
+    "wallet": "0x7f69983eb28245bba0d5083502a78744a8f66162",
+    "total_trades_fetched": 5000,
+    "updown_15m_trades": 2269,
+    "markets_analyzed": 159
+  },
+  "execution_timing": {
+    "peak_hours_utc": [14, 15],
+    "window_resolution": "15min",
+    "execution_window_seconds": [2, 30],
+    "max_execution_time_seconds": 60,
+    "description": "Execute 2-30 seconds before 15-min candle close"
+  },
+  "market_selection": {
+    "assets": ["BTC", "ETH"],
+    "asset_preference": {
+      "btc_trades": 1240,
+      "eth_trades": 680,
+      "btc_percentage": "64.6%",
+      "btc_avg_size": 43.92,
+      "eth_avg_size": 10.63
+    },
+    "market_types": ["up_or_down"],
+    "target_slugs": [
+      "btc-updown-15m",
+      "eth-updown-15m"
+    ],
+    "min_liquidity": 500,
+    "description": "Focus on 15-minute BTC/ETH Up or Down markets, prefer BTC"
+  },
+  "entry_price_analysis": {
+    "avg_entry_price": 0.5434,
+    "median_entry_price": 0.6136,
+    "min_price": 0.20,
+    "max_price": 0.81,
+    "low_price_trades_pct": "34.7%",
+    "high_price_trades_pct": "65.3%",
+    "description": "34.7% of trades at <0.35 price (high payoff), 65.3% at >=0.35"
+  },
+  "position_sizing": {
+    "by_entry_price": {
+      "0.20-0.25": {"count": 723, "avg_size": 61.47, "payoff_ratio": 3.33},
+      "0.25-0.30": {"count": 20, "avg_size": 13.41, "payoff_ratio": 2.64},
+      "0.30-0.35": {"count": 44, "avg_size": 27.19, "payoff_ratio": 2.12},
+      "0.35-0.50": {"count": 105, "avg_size": 49.74, "payoff_ratio": 1.09},
+      "0.50+": {"count": 1375, "avg_size": 10.75, "payoff_ratio": 0.41}
+    },
+    "overall": {
+      "median_size": 9.85,
+      "avg_size": 29.06,
+      "total_volume": 65933.47
+    },
+    "description": "Larger positions on low-price (high payoff) trades"
+  },
+  "consecutive_loss_analysis": {
+    "simulated_at_23pct_win_rate": {
+      "trades_analyzed": 2269,
+      "avg_max_streak": 25.8,
+      "median_max_streak": 25.0,
+      "percentile_95": 36,
+      "percentile_99": 42,
+      "worst_case_observed": 55
+    },
+    "simulated_at_25pct_win_rate": {
+      "avg_max_streak": 23.4,
+      "percentile_95": 31,
+      "percentile_99": 37
+    },
+    "description": "Must tolerate 25+ consecutive losses at 23% win rate"
+  },
+  "kelly_criterion_analysis": {
+    "at_23pct_win_rate": {
+      "0.10": {"payoff": 9.0, "breakeven_wr": 0.10, "kelly": 0.1444, "quarter_kelly": 0.0361},
+      "0.15": {"payoff": 5.67, "breakeven_wr": 0.15, "kelly": 0.0941, "quarter_kelly": 0.0235},
+      "0.20": {"payoff": 4.0, "breakeven_wr": 0.20, "kelly": 0.0375, "quarter_kelly": 0.0094},
+      "0.25": {"payoff": 3.0, "breakeven_wr": 0.25, "kelly": -0.0267, "quarter_kelly": -0.0067},
+      "0.30": {"payoff": 2.33, "breakeven_wr": 0.30, "kelly": -0.10, "quarter_kelly": -0.025}
+    },
+    "description": "Kelly only positive for prices < 0.25 at 23% win rate"
+  },
+  "risk_management": {
+    "min_edge": 0.005,
+    "min_reward_risk_ratio": 2.0,
+    "target_reward_risk_ratio": 4.0,
+    "max_token_price": 0.35,
+    "max_position_size": 50,
+    "max_daily_trades": 200,
+    "max_daily_loss": 125,
+    "max_consecutive_losses": 25,
+    "min_bankroll": 50,
+    "cooldown_after_loss": 0,
+    "description": "UPDATED: Based on complete 2269 trade simulation analysis"
+  },
+  "target_metrics": {
+    "win_rate_target": 0.23,
+    "min_win_rate": 0.20,
+    "target_reward_risk": 4.0,
+    "min_reward_risk": 2.0,
+    "avg_win_target": 10.0,
+    "avg_loss_limit": 3.0,
+    "trades_per_day_target": 50,
+    "description": "23% win rate with 4:1 payoff = profitable (0.23*4 - 0.77 = 0.15 edge)"
+  },
+  "recommended_250_config": {
+    "min_position_size": 5,
+    "max_position_size": 25,
+    "max_daily_loss": 125,
+    "max_consecutive_losses": 25,
+    "min_bankroll": 50,
+    "cooldown_after_loss": 0,
+    "max_token_price": 0.35,
+    "description": "Scaled for $250 budget based on Account88888 proportions"
+  }
+}

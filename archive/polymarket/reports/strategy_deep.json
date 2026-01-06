@@ -1,0 +1,115 @@
+{
+  "summary": {
+    "total_analyzed": 441304,
+    "before_resolution": 160,
+    "after_resolution": 441144,
+    "buy_ratio": 0.9808928603811907,
+    "avg_buy_price": 0.526042393587003
+  },
+  "price_decay": {
+    "0-1min": {
+      "count": 45817,
+      "avg_price": 0.581358398476548,
+      "median_price": 0.5,
+      "min_price": 0.000817,
+      "max_price": 410.687669,
+      "std_dev": 2.6154144553415932
+    },
+    "1-5min": {
+      "count": 138688,
+      "avg_price": 0.5609207828723466,
+      "median_price": 0.5,
+      "min_price": 0.000373,
+      "max_price": 349.3,
+      "std_dev": 2.233968549336281
+    },
+    "5-10min": {
+      "count": 132265,
+      "avg_price": 0.5327883720409783,
+      "median_price": 0.45,
+      "min_price": 0.000126,
+      "max_price": 377.237075,
+      "std_dev": 2.193342613981662
+    },
+    "10-30min": {
+      "count": 122494,
+      "avg_price": 0.8512203496416151,
+      "median_price": 0.37,
+      "min_price": 0.000119,
+      "max_price": 1780.562399,
+      "std_dev": 11.213559667971468
+    },
+    "30min+": {
+      "count": 1880,
+      "avg_price": 4.2887119675531915,
+      "median_price": 1.0888330000000002,
+      "min_price": 0.009,
+      "max_price": 3018.509735,
+      "std_dev": 72.87729491629163
+    }
+  },
+  "profit_potential": {
+    "high_price_buys": {
+      "count": 56375,
+      "total_volume": 1649171.1473220182,
+      "potential_redemption_profit": 283280.99757099437,
+      "avg_price": 1.3575153958492239
+    },
+    "mid_price_buys": {
+      "count": 265871,
+      "total_volume": 4253566.046803435,
+      "avg_price": 0.49803079264380096
+    },
+    "low_price_buys": {
+      "count": 110469,
+      "total_volume": 573486.4816339964,
+      "potential_loss_if_losers": 573486.4816339964,
+      "avg_price": 0.16913848255166608
+    },
+    "net_estimate": -290205.484063002
+  },
+  "by_asset": {
+    "BTC": {
+      "total_trades": 225227,
+      "buy_count": 222958,
+      "sell_count": 2269,
+      "buy_avg_price": 0.5132960945021036,
+      "buy_median_price": 0.46,
+      "sell_avg_price": 2.1572509638607316,
+      "total_volume": 10648488.61634495
+    },
+    "ETH": {
+      "total_trades": 106983,
+      "buy_count": 104875,
+      "sell_count": 2108,
+      "buy_avg_price": 0.5526006212252682,
+      "buy_median_price": 0.48,
+      "sell_avg_price": 4.18975021252372,
+      "total_volume": 8186094.747015034
+    },
+    "SOL": {
+      "total_trades": 58528,
+      "buy_count": 56488,
+      "sell_count": 2040,
+      "buy_avg_price": 0.5448132080264835,
+      "buy_median_price": 0.47,
+      "sell_avg_price": 8.92851511617647,
+      "total_volume": 6894629.480143048
+    },
+    "XRP": {
+      "total_trades": 50406,
+      "buy_count": 48394,
+      "sell_count": 2012,
+      "buy_avg_price": 0.5053015881514238,
+      "buy_median_price": 0.44,
+      "sell_avg_price": 13.749053802683896,
+      "total_volume": 6553391.649180006
+    }
+  },
+  "metadata": {
+    "trades_file": "data/account88888_trades_joined.json",
+    "trades_loaded": 2904133,
+    "analyzed_with_metadata": 441304,
+    "timestamp": "2026-01-05T21:38:00.548762"
+  }
+}
